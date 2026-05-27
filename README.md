@@ -1,6 +1,6 @@
 # ZEBRA eIDSR Python Sync Script
 
-A lightweight python file that synchronises data from eIDSR to ZEBRA 
+A lightweight python project that synchronises, exports and manages data between eIDSR and ZEBRA 
 
 ## Project Structure (Example)
 
@@ -10,6 +10,9 @@ A lightweight python file that synchronises data from eIDSR to ZEBRA
         README.md
         auth-template.json
         eidsr-zebra-sync.py
+        cancel-unverified-enrollment.py
+        eidsr-zebra-middleware.py
+        zebra-events-export.py
         requirements.txt
 
 
