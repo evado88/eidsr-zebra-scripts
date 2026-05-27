@@ -1,0 +1,5677 @@
+{
+  "mappingDictionary": {
+    "eventPrograms": {},
+    "options": {
+      "ASoJxa0DpSY": {
+        "code": "WEST_NILE_FEVER_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_WEST_NILE_FEVER_VIRUS",
+        "mappedId": "VzdVwPUOZMT",
+        "mappedName": "West Nile virus",
+        "mapping": {}
+      },
+      "ATN1ipSYh8W": {
+        "code": "MENINGITIS_BACTERIAL",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MENINGITIS_BACTERIAL",
+        "mappedId": "mcY0gz5iHUW",
+        "mappedName": "Meningitis (Bacterial)",
+        "mapping": {}
+      },
+      "BBKcDyz0GDm": {
+        "code": "TUNGIASIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_TUNGIASIS",
+        "mappedId": "x44Tc5w9mkt",
+        "mappedName": "Tunga spp",
+        "mapping": {}
+      },
+      "BLqJN7QWOG3": {
+        "code": "CLOSTRIDIUM_TETANI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CLOSTRIDIUM_TETANI",
+        "mappedId": "kkgVzLcMaDr",
+        "mappedName": "Clostridium tetani",
+        "mapping": {}
+      },
+      "BUroNdIUEP8": {
+        "code": "NEISSERIA_GONORRHOEAE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NEISSERIA_GONORRHOEAE",
+        "mappedId": "hPblB9dP7Ui",
+        "mappedName": "Neisseria gonorrhoeae",
+        "mapping": {}
+      },
+      "BouskzSZQeT": {
+        "code": "PHEOC_ALERT",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "PHEOC_STATUS_ALERT",
+        "mappedId": "PNxxjc0ojhu",
+        "mappedName": "Alert",
+        "mapping": {}
+      },
+      "BubqHzuDPav": {
+        "code": "RICIN",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_RICIN",
+        "mappedId": "P4rdebv0fhW",
+        "mappedName": "Ricin",
+        "mapping": {}
+      },
+      "C8YUhV5QDvY": {
+        "code": "ENDEMIC_ARBOVIRAL",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ENDEMIC_ARBOVIRAL",
+        "mappedId": "nRNubRtgqdE",
+        "mappedName": "Arboviral disease (endemic)",
+        "mapping": {}
+      },
+      "D8X51q0bOyL": {
+        "code": "EVENT_TYPE_HUMAN",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_BIOLOGICAL_HUMAN",
+        "mappedId": "Q6IgkKLmv5h",
+        "mappedName": "Biological: Human",
+        "mapping": {}
+      },
+      "Df1sXmUsJ8J": {
+        "code": "RICKETTSIA_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_RICKETTSIA_SPP",
+        "mappedId": "OEMxw65yd1G",
+        "mappedName": "Rickettsia spp",
+        "mapping": {}
+      },
+      "DqwLFccPOpa": {
+        "code": "SARIN",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SARIN",
+        "mappedId": "CSlnLlpxvOt",
+        "mappedName": "Sarin",
+        "mapping": {}
+      },
+      "DrUH2oOwFSU": {
+        "code": "ORF_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ORF_VIRUS",
+        "mappedId": "kN9k72gakOy",
+        "mappedName": "Orf virus",
+        "mapping": {}
+      },
+      "DroF50SumwB": {
+        "code": "ANTHRACIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ANTHRACIS",
+        "mappedId": "BexGk5ktsgc",
+        "mappedName": "Bacillus anthracis",
+        "mapping": {}
+      },
+      "DzORAvthUnd": {
+        "code": "DA034_ANTHRAX",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_ANTHRAX",
+        "mappedId": "ostWucrbWVp",
+        "mappedName": "Anthrax",
+        "mapping": {}
+      },
+      "E6sgivcFoSE": {
+        "code": "SARS_COV",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SARS_COV",
+        "mappedId": "NSpbGqn66kp",
+        "mappedName": "SARS-Cov",
+        "mapping": {}
+      },
+      "EQzqXMqwMRH": {
+        "code": "ALGAL_BLOOM",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ALGAL_BLOOM",
+        "mappedId": "b3SHCnToy4E",
+        "mappedName": "Algal Bloom",
+        "mapping": {}
+      },
+      "ET0dDbgXc3W": {
+        "code": "LEGIONELLA_PNEUMOPHILA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_LEGIONELLA_PNEUMOPHILA",
+        "mappedId": "nzlU6XCng4h",
+        "mappedName": "Legionella pneumophila",
+        "mapping": {}
+      },
+      "EUxkZHeKyqa": {
+        "code": "RIFT_VALLEY_FEVER_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_RIFT_VALLEY_FEVER_VIRUS",
+        "mappedId": "M6DNYXCf6qK",
+        "mappedName": "Rift Valley Fever virus",
+        "mapping": {}
+      },
+      "EbL8tOtyNtd": {
+        "code": "SARI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SARI",
+        "mappedId": "somhD6IcPc6",
+        "mappedName": "Severe Acute Respiratory Syndrome",
+        "mapping": {}
+      },
+      "F020cy5bFQu": {
+        "code": "ACUTE_NEUROLOGIC_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ACUTE_NEUROLOGIC_SYNDROME",
+        "mappedId": "bbIF6moODZE",
+        "mappedName": "Acute Neurologic Syndrome",
+        "mapping": {}
+      },
+      "F3cdoRumS4z": {
+        "code": "PHLEBOVIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_PHLEBOVIRUS",
+        "mappedId": "mHwVVuthQGw",
+        "mappedName": "Phlebovirus",
+        "mapping": {}
+      },
+      "FA0ehS597bG": {
+        "code": "NOMA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NOMA",
+        "mappedId": "aQCn68cXskL",
+        "mappedName": "Noma",
+        "mapping": {}
+      },
+      "FUYO1sMzCZ8": {
+        "code": "BLASTOCYSTIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BLASTOCYSTIS",
+        "mappedId": "e09lpkync5f",
+        "mappedName": "Blastocystis spp",
+        "mapping": {}
+      },
+      "G015t7GCibr": {
+        "code": "PHEOC_WATCH",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "PHEOC_STATUS_WATCH",
+        "mappedId": "TP08uLRVOEw",
+        "mappedName": "Watch",
+        "mapping": {}
+      },
+      "Gfg7ZTJOTkH": {
+        "code": "LEISHMANIA SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_LEISHMANIA SPP",
+        "mappedId": "zfYSl7BCm60",
+        "mappedName": "Leishmania spp",
+        "mapping": {}
+      },
+      "Gl2KOM7zRqC": {
+        "code": "BARIUM",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BARIUM",
+        "mappedId": "mOAMdzKB4K9",
+        "mappedName": "Barium",
+        "mapping": {}
+      },
+      "GlvcMVJa3Ba": {
+        "code": "POLYCHLORINATED_BIPHENYLS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_POLYCHLORINATED_BIPHENYLS",
+        "mappedId": "Kjkzj0ofL1s",
+        "mappedName": "Polychlorinated Biphenyls",
+        "mapping": {}
+      },
+      "H0jFEcHoDkh": {
+        "code": "CHLOROPICRIN",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CHLOROPICRIN",
+        "mappedId": "ZzjutG05K1k",
+        "mappedName": "Chloropicrin",
+        "mapping": {}
+      },
+      "HF0ooaDNxR9": {
+        "code": "EVENT_TYPE_ENVIRONMENTAL",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_ENVIRONMENTAL",
+        "mappedId": "Ne4jobiQL6t",
+        "mappedName": "Environmental",
+        "mapping": {}
+      },
+      "Hkl3INaPsX0": {
+        "code": "LEPTOSPIROSIS_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_LEPTOSPIROSIS_SPP",
+        "mappedId": "nzgBc6blpXW",
+        "mappedName": "Leptospirosis spp",
+        "mapping": {}
+      },
+      "HrCa5udDfrW": {
+        "code": "CYCLOSPORA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CYCLOSPORA",
+        "mappedId": "O0Flh9uZhAD",
+        "mappedName": "Cyclospora",
+        "mapping": {}
+      },
+      "HuOFE02z9mn": {
+        "code": "CYTOMEGALOVIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CYTOMEGALOVIRUS",
+        "mappedId": "ldRR32RyU4k",
+        "mappedName": "Cytomegalovirus",
+        "mapping": {}
+      },
+      "I7ZsqmV2Ihd": {
+        "code": "FENTANYLS_AND_OTHER_OPIOIDS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_FENTANYLS_AND_OTHER_OPIOIDS",
+        "mappedId": "foo9waz552p",
+        "mappedName": "Fentanyls and other opioids",
+        "mapping": {}
+      },
+      "I7fMhM3uT5a": {
+        "code": "LASSA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_LASSA_VIRUS",
+        "mappedId": "uL9WtSKlJbW",
+        "mappedName": "Lassa virus",
+        "mapping": {}
+      },
+      "ILB411yiMSa": {
+        "code": "SCHISTOSOMA_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SCHISTOSOMA_SPP",
+        "mappedId": "Oouzizk9Lfl",
+        "mappedName": "Schistosoma spp",
+        "mapping": {}
+      },
+      "IQpd15fDJrc": {
+        "code": "ACUTE_ENCEPHALITIS_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ACUTE_ENCEPHALITIS_SYNDROME",
+        "mappedId": "LLJYFyhHpmb",
+        "mappedName": "Acute Encephalitis Syndrome",
+        "mapping": {}
+      },
+      "IhBfvblCjhQ": {
+        "code": "SANGASSOU_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SANGASSOU_VIRUS",
+        "mappedId": "l4nKPEHYVUJ",
+        "mappedName": "Sangassou virus",
+        "mapping": {}
+      },
+      "JKuBOWJxw5H": {
+        "code": "KAWASAKI_KAWASAKI_LIKE_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_KAWASAKI_KAWASAKI_LIKE_SYNDROME",
+        "mappedId": "mAd3kQHQxwB",
+        "mappedName": "Kawasaki/Kawasaki-like syndrome",
+        "mapping": {}
+      },
+      "JNzsYF406vD": {
+        "code": "CHLAMYDIA_PSITTACI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CHLAMYDIA_PSITTACI",
+        "mappedId": "C4nwZuDC2Kf",
+        "mappedName": "Chlamydia psittaci",
+        "mapping": {}
+      },
+      "Jcm63C2hy1L": {
+        "code": "EASTERN_EQUINE_ENCEPHALITIS_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_EASTERN_EQUINE_ENCEPHALITIS_VIRUS",
+        "mappedId": "opJTvQv4vZc",
+        "mappedName": "Eastern Equine Encephalitis virus",
+        "mapping": {}
+      },
+      "JqHxtlXxdLa": {
+        "code": "MERS_COV",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MERS_COV",
+        "mappedId": "jnyYgunJkJv",
+        "mappedName": "MERS-CoV",
+        "mapping": {}
+      },
+      "JtQ48MelxbP": {
+        "code": "WATERBORNE_ILLNESS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_WATERBORNE_ILLNESS",
+        "mappedId": "yQ7wri3k4fr",
+        "mappedName": "Waterborne illness",
+        "mapping": {}
+      },
+      "Ka2V7mvqDsI": {
+        "code": "SAXITOXIN",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SAXITOXIN",
+        "mappedId": "UkbOhoQBpKK",
+        "mappedName": "Saxitoxin",
+        "mapping": {}
+      },
+      "Ki0deE0J0F6": {
+        "code": "BROMINE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BROMINE",
+        "mappedId": "HyLYBOK1Cmj",
+        "mappedName": "Bromine",
+        "mapping": {}
+      },
+      "KqZxAKq7GSH": {
+        "code": "BOTULINUM_TOXIN",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BOTULINUM_TOXIN",
+        "mappedId": "EAG1WPnOMNi",
+        "mappedName": "Botulinum toxin",
+        "mapping": {}
+      },
+      "LLCeIIw3NlU": {
+        "code": "DU071_COVID19",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_COVID19",
+        "mappedId": "rUrVeGKjKsh",
+        "mappedName": "COVID19",
+        "mapping": {}
+      },
+      "LVN3DdtAVbs": {
+        "code": "NODDING_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NODDING_SYNDROME",
+        "mappedId": "QNQEc7IcXOc",
+        "mappedName": "Nodding Syndrome",
+        "mapping": {}
+      },
+      "LjjpdIZppCk": {
+        "code": "AVIANFLU",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_AVIANFLU",
+        "mappedId": "ENS4VFgiWz4",
+        "mappedName": "Avian Influenza",
+        "mapping": {}
+      },
+      "LwBFlaP0ArI": {
+        "code": "ROTAVIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ROTAVIRUS",
+        "mappedId": "s17RrCxtsdg",
+        "mappedName": "Rotavirus",
+        "mapping": {}
+      },
+      "Lz39Xm7ngjZ": {
+        "code": "NEISSERIA_MENINGITIDIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NEISSERIA_MENINGITIDIS",
+        "mappedId": "nhQWQKvSBw3",
+        "mappedName": "Neisseria meningitidis",
+        "mapping": {}
+      },
+      "MS7KoneGopk": {
+        "code": "SCORPION_STING",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SCORPION_STING",
+        "mappedId": "SpePBMqIoaI",
+        "mappedName": "Scorpion Sting",
+        "mapping": {}
+      },
+      "MeEl2YrWmDQ": {
+        "code": "ACIDS_CAUSTICS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ACIDS_CAUSTICS",
+        "mappedId": "lYn5VgJNWh6",
+        "mappedName": "Acids - Caustics",
+        "mapping": {}
+      },
+      "Mi1LkYczSAG": {
+        "code": "HERPES_SIMPLEX",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HERPES_SIMPLEX",
+        "mappedId": "ydor03i6Ikx",
+        "mappedName": "Herpes Simplex",
+        "mapping": {}
+      },
+      "MjqCqAozlCK": {
+        "code": "DA985_VHF",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_ACUTE_VHF",
+        "mappedId": "h36m0Og5JxF",
+        "mappedName": "Acute VHF",
+        "mapping": {}
+      },
+      "MjspuJxmEtk": {
+        "code": "JAUNDICE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_JAUNDICE",
+        "mappedId": "x2tH40if5uW",
+        "mappedName": "Acute Jaundice Syndrome",
+        "mapping": {}
+      },
+      "MmEjLgqRTgS": {
+        "code": "ACUTE_HAEMORRHAGIC_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ACUTE_HAEMORRHAGIC_SYNDROME",
+        "mappedId": "wPNaqXWRYzC",
+        "mappedName": "Acute Haemorrhagic Fever Syndrome",
+        "mapping": {}
+      },
+      "NxdXrHa08vs": {
+        "code": "NAEGLERIA_FOWLERI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NAEGLERIA_FOWLERI",
+        "mappedId": "gLCqB7xdGGz",
+        "mappedName": "Naegleria fowleri",
+        "mapping": {}
+      },
+      "OFZk6My2RIC": {
+        "code": "SPOROTHRIX_SCHENCKII",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SPOROTHRIX_SCHENCKII",
+        "mappedId": "GkL8V95CwzB",
+        "mappedName": "Sporothrix schenckii",
+        "mapping": {}
+      },
+      "OUF6bxi63yz": {
+        "code": "ECHINOCOCCUS_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ECHINOCOCCUS_SPP",
+        "mappedId": "oNNT1laLOmL",
+        "mappedName": "Echinococcus spp",
+        "mapping": {}
+      },
+      "OV8pekcQ4fp": {
+        "code": "ENTAMOEBA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ENTAMOEBA",
+        "mappedId": "kHRPK1sFNJn",
+        "mappedName": "Entamoeba spp",
+        "mapping": {}
+      },
+      "OYd5O0vE1TR": {
+        "code": "LOA_LOA_WORM",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_LOA_LOA_WORM",
+        "mappedId": "dgZ4AMoYjrd",
+        "mappedName": "Loa loa",
+        "mapping": {}
+      },
+      "OZAF5HFac8J": {
+        "code": "CORYNEBACTERIUM_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CORYNEBACTERIUM_SPP",
+        "mappedId": "skV9XHL3ITW",
+        "mappedName": "Corynebacterium spp",
+        "mapping": {}
+      },
+      "OlkqSqmkljD": {
+        "code": "HEPB_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HEPB_VIRUS",
+        "mappedId": "n8pfSJpXVCb",
+        "mappedName": "Hepatitis B virus",
+        "mapping": {}
+      },
+      "OsMxbfv6OLc": {
+        "code": "JAPANESE_ENCEPHALITIS_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_JAPANESE_ENCEPHALITIS_VIRUS",
+        "mappedId": "RUCM1u3uBqD",
+        "mappedName": "Japanese encephalitis virus",
+        "mapping": {}
+      },
+      "OsvPt6IPqCo": {
+        "code": "PESTICIDE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_PESTICIDE",
+        "mappedId": "aC5oyngbUiv",
+        "mappedName": "Pesticide",
+        "mapping": {}
+      },
+      "Owg0hclouzz": {
+        "code": "ACUTE_FEBRILE_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ACUTE_FEBRILE_SYNDROME",
+        "mappedId": "xrbUuH7Ogsh",
+        "mappedName": "Acute Febrile Illness Syndrome",
+        "mapping": {}
+      },
+      "OzY88f9oHY8": {
+        "code": "NUCLEAR_RADIOLOGICAL_INCIDENT",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NUCLEAR_RADIOLOGICAL_INCIDENT",
+        "mappedId": "UIE4ywTDDWO",
+        "mappedName": "Nuclear - Radiological Incident",
+        "mapping": {}
+      },
+      "P26p5TWT40Y": {
+        "code": "SARCOCYSTIS_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SARCOCYSTIS_SPP",
+        "mappedId": "kWSZu3LONHZ",
+        "mappedName": "Sarcocystis spp",
+        "mapping": {}
+      },
+      "PF6V8S5qI4i": {
+        "code": "VARICELLA_ZOSTER_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_VARICELLA_ZOSTER_VIRUS",
+        "mappedId": "rz82fc8pKVu",
+        "mappedName": "Varicella Zoster virus",
+        "mapping": {}
+      },
+      "PGTcDVveJAp": {
+        "code": "NATURAL_DISASTER",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NATURAL_DISASTER",
+        "mappedId": "kKCsoFAssj1",
+        "mappedName": "Natural Disaster",
+        "mapping": {}
+      },
+      "Q00ZbEjDIpM": {
+        "code": "THIAMINE_DEF",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_THIAMINE_DEF",
+        "mappedId": "K7AbatLaxEd",
+        "mappedName": "Thiamine deficiency",
+        "mapping": {}
+      },
+      "QRPIOjRixev": {
+        "code": "ROSEOLA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ROSEOLA",
+        "mappedId": "U6Ch9VXgdqX",
+        "mappedName": "Roseola",
+        "mapping": {}
+      },
+      "QVWye0KQVKn": {
+        "code": "ARSENIC",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ARSENIC",
+        "mappedId": "aWxVdJWCuDq",
+        "mappedName": "Arsenic",
+        "mapping": {}
+      },
+      "Qy6oVcC3utK": {
+        "code": "DA050_FOOD_POISONING",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_UNKNOWN",
+        "mappedId": "dI8cKW8fPTm",
+        "mappedName": "Unknown",
+        "mapping": {}
+      },
+      "R2EM2rRxsjP": {
+        "code": "INFLUENZA_H7N9",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H7N9",
+        "mappedId": "MgoDYYXfop5",
+        "mappedName": "Influenza H7N9",
+        "mapping": {}
+      },
+      "R5c9CjX33at": {
+        "code": "PNEUMONIA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_PNEUMONIA",
+        "mappedId": "TBsRNrJCxCi",
+        "mappedName": "Pneumonia",
+        "mapping": {}
+      },
+      "RicjYOhqgSi": {
+        "code": "ACUTE_GASTROINTESTINAL_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ACUTE_GASTROINTESTINAL_SYNDROME",
+        "mappedId": "TsTCehHyb5g",
+        "mappedName": "Acute Gastrointestinal Syndrome",
+        "mapping": {}
+      },
+      "RnAMrrM4E1a": {
+        "code": "MEASLES_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MARBURG_VIRUS",
+        "mappedId": "cnVyJCmSrtP",
+        "mappedName": "Marburg virus",
+        "mapping": {}
+      },
+      "RxAgE0n4fmK": {
+        "code": "VERIFICATION_STATUS_PENDING",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_PENDING_VERIFICATION",
+        "mappedId": "f4cuVuumDOk",
+        "mappedName": "Pending Verification",
+        "mapping": {}
+      },
+      "S29dOoqtqBM": {
+        "code": "HEPD_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HEPD_VIRUS",
+        "mappedId": "t22bL0wgSyK",
+        "mappedName": "Hepatitis D virus",
+        "mapping": {}
+      },
+      "SFL2fa9JuLa": {
+        "code": "CRIMEAN_CONGO_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CRIMEAN_CONGO_VIRUS",
+        "mappedId": "opyJlmlQBR5",
+        "mappedName": "CCHF virus",
+        "mapping": {}
+      },
+      "SMW0SJE2PHb": {
+        "code": "METHYL_BROMIDE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_METHYL_BROMIDE",
+        "mappedId": "GEEz4oEd0x2",
+        "mappedName": "Methyl Bromide",
+        "mapping": {}
+      },
+      "Sd22n0L8z5i": {
+        "code": "BENZENE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BENZENE",
+        "mappedId": "gnu9so2eTOY",
+        "mappedName": "Benzene",
+        "mapping": {}
+      },
+      "SjZeJdTnvhI": {
+        "code": "DA950_YFEVER",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_UNKNOWN",
+        "mappedId": "dI8cKW8fPTm",
+        "mappedName": "Unknown",
+        "mapping": {}
+      },
+      "SoT6ztMbe9Q": {
+        "code": "TOXOPLASMA_GONDII",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_TOXOPLASMA_GONDII",
+        "mappedId": "QFyxQMoAfDw",
+        "mappedName": "Toxoplasma gondii",
+        "mapping": {}
+      },
+      "T2WOVJInGaw": {
+        "code": "CORYNEBACTERIUM_DIPHTERIAE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CORYNEBACTERIUM_DIPHTERIAE",
+        "mappedId": "DoJUV4KSAyQ",
+        "mappedName": "Corynebacterium diphtheriae",
+        "mapping": {}
+      },
+      "TX3i0INlTil": {
+        "code": "MULTIDRUG_RESISTANT_TB",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MULTIDRUG_RESISTANT_TB",
+        "mappedId": "Bt81wYiMVyC",
+        "mappedName": "Multidrug-resistant TB",
+        "mapping": {}
+      },
+      "Tz2xkBuza0i": {
+        "code": "ONYONGNYONG_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ONYONGNYONG_VIRUS",
+        "mappedId": "RwvXYVFSM6I",
+        "mappedName": "O`nyong`nyong virus",
+        "mapping": {}
+      },
+      "TztuFcCretE": {
+        "code": "SARS_COV_2",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SARS_COV_2",
+        "mappedId": "ISDecaPHfTe",
+        "mappedName": "SARS-CoV-2",
+        "mapping": {}
+      },
+      "U6dYSCVJUyz": {
+        "code": "ARBOVIRAL_NON_ENDEMIC",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ARBOVIRAL_NON_ENDEMIC",
+        "mappedId": "d4qkP2qnaG7",
+        "mappedName": "Arboviral disease (non-endemic)",
+        "mapping": {}
+      },
+      "U9ll0K0O6AI": {
+        "code": "NOROVIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NOROVIRUS",
+        "mappedId": "RNkK3OcxPE7",
+        "mappedName": "Norovirus",
+        "mapping": {}
+      },
+      "UBAKJz4HWPL": {
+        "code": "MYCOBACTERIUM_SPP_NON_TB",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MYCOBACTERIUM_SPP_NON_TB",
+        "mappedId": "EOpFom6EmRe",
+        "mappedName": "Mycobacterium spp (Non-TB)",
+        "mapping": {}
+      },
+      "UMFGMy6Nz6w": {
+        "code": "ORIENTIA_TSUTSUGAMUSHI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ORIENTIA_TSUTSUGAMUSHI",
+        "mappedId": "T2ihaHEn6wk",
+        "mappedName": "Orientia tsutsugamushi",
+        "mapping": {}
+      },
+      "VQSnXWbHKya": {
+        "code": "BONGKREKIC_ACID",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BONGKREKIC_ACID",
+        "mappedId": "TV7udNsDVim",
+        "mappedName": "Bongkrekic Acid",
+        "mapping": {}
+      },
+      "Wenl8NSA6FA": {
+        "code": "STREPTOCOCCUS_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_STREPTOCOCCUS_SPP",
+        "mappedId": "JW2qMgEliYz",
+        "mappedName": "Streptococcus spp",
+        "mapping": {}
+      },
+      "WrIXMV7ANIF": {
+        "code": "AFP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_AFP",
+        "mappedId": "vNHHVX6a8Hp",
+        "mappedName": "Acute Flaccid Paralysis",
+        "mapping": {}
+      },
+      "X5GUnmZyxij": {
+        "code": "OTHER_EMERG_INFECTIOUS_DESEASE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_OTHER_EMERG_INFECTIOUS_DESEASE",
+        "mappedId": "Q6Nw5GcbHLV",
+        "mappedName": "Other Emerging Infectious Disease",
+        "mapping": {}
+      },
+      "X6jlSRFm2ob": {
+        "code": "DB050_MEASLES",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_MEASLES",
+        "mappedId": "ZxcNGjj2VLU",
+        "mappedName": "Measles",
+        "mapping": {}
+      },
+      "XWXtF3Z4ISR": {
+        "code": "CYANIDE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CYANIDE",
+        "mappedId": "dKZ7jw8ewGi",
+        "mappedName": "Cyanide",
+        "mapping": {}
+      },
+      "XhECSlW1MBj": {
+        "code": "VERIFICATION_STATUS_VERIFIED",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_VERIFIED",
+        "mappedId": "Yoh17eYfxNJ",
+        "mappedName": "Verified ",
+        "mapping": {}
+      },
+      "XrsafCTkbJd": {
+        "code": "CYSTOISOSPORA_BELLI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CYSTOISOSPORA_BELLI",
+        "mappedId": "Fp5HN9Yoco8",
+        "mappedName": "Cystoisospora belli",
+        "mapping": {}
+      },
+      "YHbsUunU4qw": {
+        "code": "BRUCELLA_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BRUCELLA_SPP",
+        "mappedId": "LiyCNtTqosR",
+        "mappedName": "Brucella spp",
+        "mapping": {}
+      },
+      "YqSOKrfBil2": {
+        "code": "TRYPANOSOMA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_TRYPANOSOMA",
+        "mappedId": "OoqJJ0NNurx",
+        "mappedName": "Trypanosoma brucei",
+        "mapping": {}
+      },
+      "YsaVvlJkIl4": {
+        "code": "HERBICIDE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HERBICIDE",
+        "mappedId": "Y6pSI7SH7uA",
+        "mappedName": "Herbicide",
+        "mapping": {}
+      },
+      "Z4e7GfRfPxG": {
+        "code": "CHLORINE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CHLORINE",
+        "mappedId": "OeSN7XsynOs",
+        "mappedName": "Chlorine",
+        "mapping": {}
+      },
+      "Z56Smw78fLa": {
+        "code": "COCCIDIAN_PROTOZOA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_COCCIDIAN_PROTOZOA",
+        "mappedId": "nfhap4vMKP1",
+        "mappedName": "Coccidian protozoa",
+        "mapping": {}
+      },
+      "Z8wXVHk7coe": {
+        "code": "INFLUENZA_H5N3",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H5N3",
+        "mappedId": "XAtf4gB58oD",
+        "mappedName": "Influenza H5N3",
+        "mapping": {}
+      },
+      "ZEb2d0lKb4g": {
+        "code": "CRYPTOCOCCUS_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CRYPTOCOCCUS_SPP",
+        "mappedId": "hv7J8yM66JT",
+        "mappedName": "Cryptococcus spp",
+        "mapping": {}
+      },
+      "ZiGNU3koyZ6": {
+        "code": "MUMPS_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MUMPS_VIRUS",
+        "mappedId": "XOynMf48KTh",
+        "mappedName": "Mumps virus",
+        "mapping": {}
+      },
+      "ZkhjVwxkWv1": {
+        "code": "AMMONIA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_AMMONIA",
+        "mappedId": "NxJOFgvEZyk",
+        "mappedName": "Ammonia",
+        "mapping": {}
+      },
+      "ZvBcbH7vPS9": {
+        "code": "COWPOX_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_COWPOX_VIRUS",
+        "mappedId": "Zffz5QiS8bi",
+        "mappedName": "Cowpox virus",
+        "mapping": {}
+      },
+      "aIvxcSWOopm": {
+        "code": "BREVETOXIN",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BREVETOXIN",
+        "mappedId": "sx8JYjjLuPE",
+        "mappedName": "Brevetoxin",
+        "mapping": {}
+      },
+      "awgFhWZx0RT": {
+        "code": "HAEMOPHILUS_INFLUENZAE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HAEMOPHILUS_INFLUENZAE",
+        "mappedId": "pqpqmzyaajf",
+        "mappedName": "Haemophilus influenzae",
+        "mapping": {}
+      },
+      "bVB7Mv605fr": {
+        "code": "RABIES_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_RABIES_VIRUS",
+        "mappedId": "bZTGWsrPn7P",
+        "mappedName": "Rabies virus",
+        "mapping": {}
+      },
+      "brxglsBWFO8": {
+        "code": "PLASMODIUM_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_PLASMODIUM_SPP",
+        "mappedId": "qprtdoRCL0g",
+        "mappedName": "Plasmodium spp",
+        "mapping": {}
+      },
+      "cD6RZfjtZmm": {
+        "code": "SALMONELLA_TYPHI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SALMONELLA_TYPHI",
+        "mappedId": "oGthFDMOVAI",
+        "mappedName": "Salmonella typhi",
+        "mapping": {}
+      },
+      "cKJZalwEtEh": {
+        "code": "CLOSTRIDIUM_DIFFICILE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CLOSTRIDIUM_DIFFICILE",
+        "mappedId": "j9qdTn8z7Qm",
+        "mappedName": "Clostridium difficile",
+        "mapping": {}
+      },
+      "d7vatbXFh1J": {
+        "code": "RTA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_RTA",
+        "mappedId": "KbCmmd51VCV",
+        "mappedName": "Road traffic Accidents",
+        "mapping": {}
+      },
+      "dQ7jxAli8Vl": {
+        "code": "FILARIASIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_FILARIASIS",
+        "mappedId": "RlaXQInmSDb",
+        "mappedName": "Filariodidea worms",
+        "mapping": {}
+      },
+      "dZ60QnpWqyo": {
+        "code": "DA069_DIARR_BLOOD",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_DIARRHOEA_W_BLOOD",
+        "mappedId": "kil97LSHfy5",
+        "mappedName": "Diarrhoea with blood",
+        "mapping": {}
+      },
+      "e0Vgv12ELA8": {
+        "code": "CHLAMYDIA_TRACHOMATIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CHLAMYDIA_TRACHOMATIS",
+        "mappedId": "PLvo90mDWDd",
+        "mappedName": "Chlamydia trachomatis",
+        "mapping": {}
+      },
+      "eD33vA5nBcU": {
+        "code": "MERCURY",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MERCURY",
+        "mappedId": "SHwrNRBjXwR",
+        "mappedName": "Mercury poisoning",
+        "mapping": {}
+      },
+      "eUhNUCN2imw": {
+        "code": "NOSOCOMIAL",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_NOSOCOMIAL",
+        "mappedId": "zuTmZ8zghJ4",
+        "mappedName": "Nosocomial/MDR",
+        "mapping": {}
+      },
+      "ee9SMWuHAyh": {
+        "code": "INFLUENZA_H5N2",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H5N2",
+        "mappedId": "J1VMFto6YPn",
+        "mappedName": "Influenza H5N2",
+        "mapping": {}
+      },
+      "ekWMOHEgcNE": {
+        "code": "HEPC_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HEPC_VIRUS",
+        "mappedId": "T506BywaBzu",
+        "mappedName": "Hepatitis C virus",
+        "mapping": {}
+      },
+      "embL8iPf4hb": {
+        "code": "VO123_VOLCANO_ERUPTION",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_VO123_VOLCANO_ERUPTION",
+        "mappedId": "npqIHMp5oit",
+        "mappedName": "Volcano Eruption",
+        "mapping": {}
+      },
+      "eyMD5KRHUbC": {
+        "code": "GUILLAIN_BARRE_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_GUILLAIN_BARRE_SYNDROME",
+        "mappedId": "mkSgZO7aEuk",
+        "mappedName": "Guillain Barré Syndrome",
+        "mapping": {}
+      },
+      "f4tgjsxaSfe": {
+        "code": "PHEOC_RESPONSE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "PHEOC_STATUS_RESPOND",
+        "mappedId": "aJENZsZi3xd",
+        "mappedName": "Respond",
+        "mapping": {}
+      },
+      "f91f5bzs38A": {
+        "code": "YERSINIA_PSEUDOTUBERCULOSIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_YERSINIA_PSEUDOTUBERCULOSIS",
+        "mappedId": "XhAHcxlWWh1",
+        "mappedName": "Yersinia pseudotuberculosis",
+        "mapping": {}
+      },
+      "f9hrXNgS6oq": {
+        "code": "POLIO_VIRUS_CVDPV2",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_POLIO_VIRUS_CVDPV2",
+        "mappedId": "lAfcM7qNdQW",
+        "mappedName": "Polio virus (vaccine-derived)",
+        "mapping": {}
+      },
+      "fQxdTWgeC4r": {
+        "code": "MYCOBACTERIUM_LEPRAE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MYCOBACTERIUM_LEPRAE",
+        "mappedId": "Fb5LIsRENZ0",
+        "mappedName": "Mycobacterium leprae",
+        "mapping": {}
+      },
+      "fYL8u1VV7KF": {
+        "code": "INFLUENZA_H1N2",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H1N2",
+        "mappedId": "Pt3lSXtQgS7",
+        "mappedName": "Influenza H1N2",
+        "mapping": {}
+      },
+      "farIZy7gZuC": {
+        "code": "SINDBIS_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SINDBIS_VIRUS",
+        "mappedId": "Orat6xr041o",
+        "mappedName": "Sindbis virus",
+        "mapping": {}
+      },
+      "fz5iaRfRd5G": {
+        "code": "HEPA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HEPA_VIRUS",
+        "mappedId": "t7IeViwTxDF",
+        "mappedName": "Hepatitis A virus",
+        "mapping": {}
+      },
+      "gCKoN0y5R9V": {
+        "code": "PARVOVIRUS_B19",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_PARVOVIRUS_B19",
+        "mappedId": "BoMBxPXon3O",
+        "mappedName": "Parvovirus B19",
+        "mapping": {}
+      },
+      "gbdmogEAJQN": {
+        "code": "ADENOVIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ADENOVIRUS",
+        "mappedId": "GkV0rnDhWFB",
+        "mappedName": "Adenovirus",
+        "mapping": {}
+      },
+      "gyUWprZ5gV1": {
+        "code": "CANDIDA_AURIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CANDIDA_AURIS",
+        "mappedId": "w91TMWyhAWc",
+        "mappedName": "Candida spp",
+        "mapping": {}
+      },
+      "hhcArfbRiQ4": {
+        "code": "PFIESTERIA_PISCICIDA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_PFIESTERIA_PISCICIDA",
+        "mappedId": "zCQcPImIPyh",
+        "mappedName": "Pfiesteria piscicida",
+        "mapping": {}
+      },
+      "hkiJ34RXqNm": {
+        "code": "SEVERE_WEATHER",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SEVERE_WEATHER",
+        "mappedId": "IQNvkwayDFp",
+        "mappedName": "Severe weather",
+        "mapping": {}
+      },
+      "hnCbPeoiD3B": {
+        "code": "LEAD",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_LEAD",
+        "mappedId": "OVo91qrSzzC",
+        "mappedName": "Lead poisoning",
+        "mapping": {}
+      },
+      "hqrgOOsMJGU": {
+        "code": "CARBON_MONOXIDE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CARBON_MONOXIDE",
+        "mappedId": "bbwucO3n2jV",
+        "mappedName": "Carbon Monoxide",
+        "mapping": {}
+      },
+      "hr7aSwYunz2": {
+        "code": "EVENT_TYPE_HUMAN_ANIMAL",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_BIOLOGICAL_HUM_ANM",
+        "mappedId": "O1IAn5h3rGJ",
+        "mappedName": "Biological: Human and Animal",
+        "mapping": {}
+      },
+      "hznWURl9KAx": {
+        "code": "EBOLA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_EBOLA_VIRUS",
+        "mappedId": "euyJHBNNgD0",
+        "mappedName": "Ebola virus",
+        "mapping": {}
+      },
+      "i1yIvZYNpRO": {
+        "code": "CRYPTOSPORIDIUM_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CRYPTOSPORIDIUM_SPP",
+        "mappedId": "OqIvT6qzPAv",
+        "mappedName": "Cryptosporidium spp",
+        "mapping": {}
+      },
+      "i3aAMYode2t": {
+        "code": "INFLUENZA_H6N1",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H6N1",
+        "mappedId": "lbYJnzQAmtc",
+        "mappedName": "Influenza H6N1",
+        "mapping": {}
+      },
+      "iS1RbOBm5lj": {
+        "code": "VERIFICATION_STATUS_NOT_EVENT",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_NOT_AN_EVENT",
+        "mappedId": "rUkKaxRq1Oh",
+        "mappedName": "Not an event",
+        "mapping": {}
+      },
+      "iXBcCtV5KVv": {
+        "code": "UNKNOWN_FOOD_BORNE_DISEASE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_UNKNOWN_FOOD_BORNE_DISEASE",
+        "mappedId": "PrNH50cAJ1W",
+        "mappedName": "Food-borne disease",
+        "mapping": {}
+      },
+      "if9izcevCS4": {
+        "code": "EVENT_TYPE_ANIMAL",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_BIOLOGICAL_ANIMAL",
+        "mappedId": "UscXINLumPM",
+        "mappedName": "Biological: Animal",
+        "mapping": {}
+      },
+      "ivKOFDqExBg": {
+        "code": "COXSACKIE_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_COXSACKIE_VIRUS",
+        "mappedId": "n5hTOojGlLj",
+        "mappedName": "Coxsackie virus",
+        "mapping": {}
+      },
+      "izLAA2lvxUP": {
+        "code": "APLASTIC_ANAEMIA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_APLASTIC_ANAEMIA",
+        "mappedId": "KuheCIFTYiL",
+        "mappedName": "Aplastic Anaemia",
+        "mapping": {}
+      },
+      "j0GT5W5LV01": {
+        "code": "VARIOLA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_VARIOLA_VIRUS",
+        "mappedId": "lsbUjI3UK00",
+        "mappedName": "Variola virus",
+        "mapping": {}
+      },
+      "j3KUsxYn9rY": {
+        "code": "DENGUE_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_DENGUE_VIRUS",
+        "mappedId": "wFYOFmwYnSJ",
+        "mappedName": "Dengue virus",
+        "mapping": {}
+      },
+      "jAdzlk9GwH6": {
+        "code": "RUBELLA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_RUBELLA_VIRUS",
+        "mappedId": "ONqRdb5kif0",
+        "mappedName": "Rubella virus",
+        "mapping": {}
+      },
+      "jM86L5diTIC": {
+        "code": "METHICILLIN_RESISTANT_STAPH_AUREUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_METHICILLIN_RESISTANT_STAPH_AUREUS",
+        "mappedId": "DRAu4LpFV7Y",
+        "mappedName": "Methicillin Resistant Staphylococcus aureus",
+        "mapping": {}
+      },
+      "joihVJBJGz1": {
+        "code": "INFLUENZA_H1N1",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H1N1",
+        "mappedId": "Uvv4d7YTJAY",
+        "mappedName": "Influenza H1N1",
+        "mapping": {}
+      },
+      "kArvo6Ywk4G": {
+        "code": "METHANOL_POISONING",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_METHANOL_POISONING",
+        "mappedId": "L7wKHP2nojO",
+        "mappedName": "Methanol poisoning",
+        "mapping": {}
+      },
+      "kJtROtzjo6A": {
+        "code": "VACCINIA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_VACCINIA_VIRUS",
+        "mappedId": "Czkt05IK10P",
+        "mappedName": "Vaccinia virus",
+        "mapping": {}
+      },
+      "kLufBqeBhON": {
+        "code": "TREPONEMA_PALLIDUM",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_TREPONEMA_PALLIDUM",
+        "mappedId": "CEMrv51F7Zs",
+        "mappedName": "Treponema pallidum",
+        "mapping": {}
+      },
+      "keEBOiquD7f": {
+        "code": "TAENIA_SOLIUM",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_TAENIA_SOLIUM",
+        "mappedId": "WniIlCFZjse",
+        "mappedName": "Taenia solium",
+        "mapping": {}
+      },
+      "kwF2GPszknf": {
+        "code": "COXIELLA_BURNETII",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_COXIELLA_BURNETII",
+        "mappedId": "pCAXqgObMsB",
+        "mappedName": "Coxiella burnetii",
+        "mapping": {}
+      },
+      "leAmK4Lbw2v": {
+        "code": "DA090_DIARR_NON_BLOOD",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_UNKNOWN",
+        "mappedId": "dI8cKW8fPTm",
+        "mappedName": "Unknown",
+        "mapping": {}
+      },
+      "lfUj6p4SEJU": {
+        "code": "AEFI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_AEFI",
+        "mappedId": "B3xOXSB95fx",
+        "mappedName": "AEFI",
+        "mapping": {}
+      },
+      "lpvKnQOAM38": {
+        "code": "ESCHERICHIA_COLI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ESCHERICHIA_COLI",
+        "mappedId": "qbqYG45r8XY",
+        "mappedName": "Escherichia coli",
+        "mapping": {}
+      },
+      "mZ9foxdvH2P": {
+        "code": "DIETHYLENE_ETHYLENE_GLYCOL",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_DIETHYLENE_ETHYLENE_GLYCOL",
+        "mappedId": "tknolPcKpLD",
+        "mappedName": "Diethylene/Ethylene Glycol",
+        "mapping": {}
+      },
+      "mf5bnIgInMv": {
+        "code": "INFLUENZA_H9N2",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H9N2",
+        "mappedId": "XGuglQAQlSJ",
+        "mappedName": "Influenza H9N2",
+        "mapping": {}
+      },
+      "myAQThRv1WO": {
+        "code": "ENTEROVIRUS_ST_68_71",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ENTEROVIRUS_ST_68_71",
+        "mappedId": "JD7W2YsrAFx",
+        "mappedName": "Enterovirus serotypes 68-71",
+        "mapping": {}
+      },
+      "nIuYIMaIs2S": {
+        "code": "VIBRIO_PARAHAEMOLYTICUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_VIBRIO_PARAHAEMOLYTICUS",
+        "mappedId": "ULta2Hc1CHt",
+        "mappedName": "Vibrio parahaemolyticus",
+        "mapping": {}
+      },
+      "nOsDpsDUSKZ": {
+        "code": "ONCHOCERCA_VOLVULUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ONCHOCERCA_VOLVULUS",
+        "mappedId": "jAJdJ7kETzK",
+        "mappedName": "Onchocerca volvulus",
+        "mapping": {}
+      },
+      "ogf6ndnk047": {
+        "code": "SHIGELLA_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SHIGELLA_SPP",
+        "mappedId": "vlJtK5HpFV7",
+        "mappedName": "Shigella spp",
+        "mapping": {}
+      },
+      "pANhfeWJ4ZQ": {
+        "code": "DA850_AFP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_AFP",
+        "mappedId": "awczBIdlie6",
+        "mappedName": "AFP",
+        "mapping": {}
+      },
+      "pQt5oHSh4y1": {
+        "code": "DESERT_LOCUSTS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_DESERT_LOCUSTS",
+        "mappedId": "a1mHMRmMy7U",
+        "mappedName": "Desert Locusts",
+        "mapping": {}
+      },
+      "pSP91WXlI7U": {
+        "code": "ACUTE_FEVER_AND_RASH_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ACUTE_FEVER_AND_RASH_SYNDROME",
+        "mappedId": "LWMoKx1ptQt",
+        "mappedName": "Acute Fever and Rash Syndrome",
+        "mapping": {}
+      },
+      "pcNcbnsYE2U": {
+        "code": "STAPHYLOCOCCUS_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_STAPHYLOCOCCUS_SPP",
+        "mappedId": "jCF6SrXJdAy",
+        "mappedName": "Staphylococcus spp",
+        "mapping": {}
+      },
+      "pfhWogEpbur": {
+        "code": "OTHER",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_OTHER",
+        "mappedId": "qSYjdz1lQXt",
+        "mappedName": "Other",
+        "mapping": {}
+      },
+      "pfrfwJVVKSW": {
+        "code": "GIARDIA_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_GIARDIA_SPP",
+        "mappedId": "E70iZfP3nsF",
+        "mappedName": "Giardia spp",
+        "mapping": {}
+      },
+      "phUVtE9TGmL": {
+        "code": "BUFFALOPOX_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BUFFALOPOX_VIRUS",
+        "mappedId": "Ib9wM53P7yG",
+        "mappedName": "Buffalopox virus",
+        "mapping": {}
+      },
+      "pwQ9PRgkgdF": {
+        "code": "BORRELIA_BURGDORFERI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BORRELIA_BURGDORFERI",
+        "mappedId": "gPlAb1U0wZz",
+        "mappedName": "Borrelia spp",
+        "mapping": {}
+      },
+      "q6m8o9uMN8F": {
+        "code": "VIBRIO_VULNIFICUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_VIBRIO_VULNIFICUS",
+        "mappedId": "AXBkBf2DoYq",
+        "mappedName": "Vibrio vulnificus",
+        "mapping": {}
+      },
+      "qQTpahA3T28": {
+        "code": "CHIKUNGUNYA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_CHIKUNGUNYA_VIRUS",
+        "mappedId": "P4oeFAtYtWh",
+        "mappedName": "Chikungunya virus",
+        "mapping": {}
+      },
+      "qbJSioyieCq": {
+        "code": "ZIKA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ZIKA_VIRUS",
+        "mappedId": "g3MlMveJA3g",
+        "mappedName": "Zika virus",
+        "mapping": {}
+      },
+      "quC0NgqLhcv": {
+        "code": "MONKEYPOX_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MONKEYPOX_VIRUS",
+        "mappedId": "uZEpMj26Pvz",
+        "mappedName": "Monkeypox virus",
+        "mapping": {}
+      },
+      "quLJAvfxT5f": {
+        "code": "LISTERIA_MONOCYTOGENES",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_LISTERIA_MONOCYTOGENES",
+        "mappedId": "fkT2gl3iKTf",
+        "mappedName": "Listeria monocytogenes",
+        "mapping": {}
+      },
+      "rKYcrFswzKm": {
+        "code": "POLIO_VIRUS_WILD",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_POLIO_VIRUS_WILD",
+        "mappedId": "zq7i2SZ7NGO",
+        "mappedName": "Polio virus (wild-type)",
+        "mapping": {}
+      },
+      "reHtbs60N38": {
+        "code": "DB560_TRYPANOSOMIASIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_DISEASE_UNKNOWN",
+        "mappedId": "dI8cKW8fPTm",
+        "mappedName": "Unknown",
+        "mapping": {}
+      },
+      "rjDI8EHOeEE": {
+        "code": "RICKETTSIA_PROWAZEKII",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_RICKETTSIA_PROWAZEKII",
+        "mappedId": "T7bl6d84OIh",
+        "mappedName": "Rickettsia Prowazekii",
+        "mapping": {}
+      },
+      "sE4tbK3nLZD": {
+        "code": "EHRLICHIA_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_EHRLICHIA_SPP",
+        "mappedId": "DHJeOUoxZnn",
+        "mappedName": "Ehrlichia spp",
+        "mapping": {}
+      },
+      "sL3ZtqbVrlS": {
+        "code": "EPSTEIN_BARR_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_EPSTEIN_BARR_VIRUS",
+        "mappedId": "FhkzOBFW3sq",
+        "mappedName": "Gammaherpesviral mononucleosis",
+        "mapping": {}
+      },
+      "sadpvP1EYev": {
+        "code": "BABESIA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BABESIA",
+        "mappedId": "MCpcQC1SwjX",
+        "mappedName": "Babesia spp",
+        "mapping": {}
+      },
+      "skO9kyko0aF": {
+        "code": "BURKHOLDERIA_PSEUDOMALLEI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BURKHOLDERIA_PSEUDOMALLEI",
+        "mappedId": "xVAASFM4vno",
+        "mappedName": "Burkholderia pseudomallei",
+        "mapping": {}
+      },
+      "sogUfYYKvYA": {
+        "code": "VIBRIO_CHOLERAE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_VIBRIO_CHOLERAE",
+        "mappedId": "x47aakRcRjy",
+        "mappedName": "Vibrio cholerae",
+        "mapping": {}
+      },
+      "tEjrHu3TTWV": {
+        "code": "STRYCHNINE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_STRYCHNINE",
+        "mappedId": "Ez8TXIX5jdO",
+        "mappedName": "Strychnine",
+        "mapping": {}
+      },
+      "tXo3QJWW1zx": {
+        "code": "TRICHINELLA_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_TRICHINELLA_SPP",
+        "mappedId": "wIp3N1HJ9kE",
+        "mappedName": "Trichinella spp",
+        "mapping": {}
+      },
+      "taaMahzRFas": {
+        "code": "ACUTE_DIARRHOEAL_SYNDROME",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ACUTE_DIARRHOEAL_SYNDROME",
+        "mappedId": "xWmSJzJD7rK",
+        "mappedName": "Acute Diarrhoeal Syndrome",
+        "mapping": {}
+      },
+      "tiRzaylMg79": {
+        "code": "ECHOVIRUSES",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_ECHOVIRUSES",
+        "mappedId": "OqSC7cQqNIy",
+        "mappedName": "Echoviruses",
+        "mapping": {}
+      },
+      "trG0dlzPZft": {
+        "code": "BORDETELLA_PERTUSSIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BORDETELLA_PERTUSSIS",
+        "mappedId": "nrhnZwbShy2",
+        "mappedName": "Bordetella pertussis",
+        "mapping": {}
+      },
+      "tslawTX1hhL": {
+        "code": "MACACINE_ALPHAHERPESVIRUS_1",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MACACINE_ALPHAHERPESVIRUS_1",
+        "mappedId": "NQTLB9cpdFk",
+        "mappedName": "Macacine alphaherpesvirus 1",
+        "mapping": {}
+      },
+      "tuz0kWO0OD2": {
+        "code": "INFLUENZA_H2N2",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H2N2",
+        "mappedId": "Hf5EtbrwUqe",
+        "mappedName": "Influenza H2N2",
+        "mapping": {}
+      },
+      "twtmG69dlfX": {
+        "code": "INFLUENZA_H5N8",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H5N8",
+        "mappedId": "ymK1b20QFyn",
+        "mappedName": "Influenza H5N8",
+        "mapping": {}
+      },
+      "u4A12oycUVl": {
+        "code": "SALMONELLA_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_SALMONELLA_SPP",
+        "mappedId": "QphLhDcRx8P",
+        "mappedName": "Salmonella spp",
+        "mapping": {}
+      },
+      "u7gwLUvNYpb": {
+        "code": "INFLUENZA_H3N2",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H3N2",
+        "mappedId": "APCR3cKzXaY",
+        "mappedName": "Influenza H3N2",
+        "mapping": {}
+      },
+      "uAU4HJNKrfR": {
+        "code": "MARBURG_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MARBURG_VIRUS",
+        "mappedId": "cnVyJCmSrtP",
+        "mappedName": "Marburg virus",
+        "mapping": {}
+      },
+      "uDfkkjJaKWz": {
+        "code": "EVENT_TYPE_BIO_WARFARE",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_CHEMICAL",
+        "mappedId": "tAWvFQvutf3",
+        "mappedName": "Chemical",
+        "mapping": {}
+      },
+      "uYzcntrV5dY": {
+        "code": "YERSINIA_PESTIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_YERSINIA_PESTIS",
+        "mappedId": "rXfUJEALHF7",
+        "mappedName": "Yersinia pestis",
+        "mapping": {}
+      },
+      "uepgtc2OMum": {
+        "code": "MENINGITIS_VIRAL",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MENINGITIS_VIRAL",
+        "mappedId": "O2RKlCr5H4e",
+        "mappedName": "Meningitis (Viral)",
+        "mapping": {}
+      },
+      "ug2cFIjOkGw": {
+        "code": "HEPE_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HEPE_VIRUS",
+        "mappedId": "ImxVOZa9Tqe",
+        "mappedName": "Hepatitis E virus",
+        "mapping": {}
+      },
+      "vCbUJorRewY": {
+        "code": "BURKHOLDERIA_MALLEI",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_BURKHOLDERIA_MALLEI",
+        "mappedId": "m0D97StyGXt",
+        "mappedName": "Burkholderia mallei",
+        "mapping": {}
+      },
+      "vO3sqNUVqXX": {
+        "code": "YELLOW_FEVER_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_YELLOW_FEVER_VIRUS",
+        "mappedId": "MqSNXxFfdq4",
+        "mappedName": "Yellow fever virus",
+        "mapping": {}
+      },
+      "vSWfCSals1w": {
+        "code": "UNKNOWN_AGENT",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_UNKNOWN_AGENT",
+        "mappedId": "BcwHvYvpbhz",
+        "mappedName": "Unknown agent",
+        "mapping": {}
+      },
+      "vgDqArInajB": {
+        "code": "STREPTOCOCCUS_SUIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_STREPTOCOCCUS_SUIS",
+        "mappedId": "veffiB7Dsn7",
+        "mappedName": "Streptococcus suis",
+        "mapping": {}
+      },
+      "vjSxEVTXKIj": {
+        "code": "DRACUNCULUS_MEDINENSIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_DRACUNCULUS_MEDINENSIS",
+        "mappedId": "r6VhZ1Gb9sZ",
+        "mappedName": "Dracunculus medinensis",
+        "mapping": {}
+      },
+      "wA5c28oIklA": {
+        "code": "INFLUENZA_H5",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H5",
+        "mappedId": "nrumu8dhuJZ",
+        "mappedName": "Influenza H5",
+        "mapping": {}
+      },
+      "wGKjQ69vv3I": {
+        "code": "THALLIUM",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_THALLIUM",
+        "mappedId": "PPodk23SUzP",
+        "mappedName": "Thallium",
+        "mapping": {}
+      },
+      "wMYVC2oY5yL": {
+        "code": "RESPIRATORY_SYNCYTIAL_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_RESPIRATORY_SYNCYTIAL_VIRUS",
+        "mappedId": "QjyQGTNEn9M",
+        "mappedName": "Respiratory Syncytial Virus",
+        "mapping": {}
+      },
+      "x6GTdhLRX2B": {
+        "code": "MYCOBACTERIUM_ULCERANS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MYCOBACTERIUM_ULCERANS",
+        "mappedId": "Q591Tijc2cp",
+        "mappedName": "Mycobacterium ulcerans",
+        "mapping": {}
+      },
+      "x8XUxwCpWG3": {
+        "code": "HUMAN_METAPNEUMOVIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HUMAN_METAPNEUMOVIRUS",
+        "mappedId": "f5iDiWVDqwA",
+        "mappedName": "Human Metapneumovirus",
+        "mapping": {}
+      },
+      "xSPWDYC3QoD": {
+        "code": "INFLUENZA_VIRUS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_VIRUS",
+        "mappedId": "gFLSkbvVEPb",
+        "mappedName": "Influenza virus",
+        "mapping": {}
+      },
+      "xT5JZifjRJr": {
+        "code": "INFLUENZA_H5N6",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H5N6",
+        "mappedId": "wWc3LU0kHnY",
+        "mappedName": "Influenza H5N6",
+        "mapping": {}
+      },
+      "xwe9IebVmo4": {
+        "code": "TRICHOMONAS_VAGINALIS",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_TRICHOMONAS_VAGINALIS",
+        "mappedId": "fX6rhsVezBM",
+        "mappedName": "Trichomonas vaginalis",
+        "mapping": {}
+      },
+      "y8W7cyS8Hjs": {
+        "code": "HISTOPLASMA_CAPSULATUM",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_HISTOPLASMA_CAPSULATUM",
+        "mappedId": "tK3UyoJCR3Y",
+        "mappedName": "Histoplasma capsulatum",
+        "mapping": {}
+      },
+      "yGPVfdqbNX9": {
+        "code": "FASCIOLA_HEPATICA",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_FASCIOLA_HEPATICA",
+        "mappedId": "pKs3T2l9VI7",
+        "mappedName": "Fasciola spp",
+        "mapping": {}
+      },
+      "yYDdG2DQ43g": {
+        "code": "MYCOBACTERIUM_TB",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_MYCOBACTERIUM_TB",
+        "mappedId": "k51adYpXjjG",
+        "mappedName": "Mycobacterium tuberculosis",
+        "mapping": {}
+      },
+      "ze04QcCXcH1": {
+        "code": "PARAGONIMUS_SPP",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_PARAGONIMUS_SPP",
+        "mappedId": "nA3l3HRSbi4",
+        "mappedName": "Paragonimus spp",
+        "mapping": {}
+      },
+      "zh53AFYrIgB": {
+        "code": "INFLUENZA_H5N1",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "AGENTS_INFLUENZA_H5N1",
+        "mappedId": "kDtVNtywv1P",
+        "mappedName": "Influenza H5N1",
+        "mapping": {}
+      }
+    },
+    "organisationUnits": {
+      "A84b9TjHfN4": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/A84b9TjHfN4",
+        "mappedLevel": 3,
+        "mappedName": "lu Chifunabuli District",
+        "mapping": {}
+      },
+      "A9wU7lhL721": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/A9wU7lhL721",
+        "mappedLevel": 3,
+        "mappedName": "co Masaiti District",
+        "mapping": {}
+      },
+      "AWn3s2RqgAN": {
+        "code": "100000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "100000",
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN",
+        "mappedLevel": 2,
+        "mappedName": "ce Central Province",
+        "mapping": {}
+      },
+      "AzWWgprM3XA": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/AzWWgprM3XA",
+        "mappedLevel": 3,
+        "mappedName": "ea Lusangazi District",
+        "mapping": {}
+      },
+      "B1u1bVtIA92": {
+        "code": "400000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "400000",
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92",
+        "mappedLevel": 2,
+        "mappedName": "lu Luapula Province",
+        "mapping": {}
+      },
+      "BF2UmDQqcjZ": {
+        "code": "707000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "707000",
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/BF2UmDQqcjZ",
+        "mappedLevel": 3,
+        "mappedName": "nw Zambezi District",
+        "mapping": {}
+      },
+      "BdX6cE5mRtc": {
+        "code": "701000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "701000",
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/BdX6cE5mRtc",
+        "mappedLevel": 3,
+        "mappedName": "nw Chavuma District",
+        "mapping": {}
+      },
+      "BxrIbNW7f3K": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/BxrIbNW7f3K",
+        "mappedLevel": 3,
+        "mappedName": "ce Chitambo DIstrict",
+        "mapping": {}
+      },
+      "DM5Sjew7MCn": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/DM5Sjew7MCn",
+        "mappedLevel": 3,
+        "mappedName": "so Livingstone District",
+        "mapping": {}
+      },
+      "DwYuydz94te": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F/DwYuydz94te",
+        "mappedLevel": 3,
+        "mappedName": "mu Kanchibiya District",
+        "mapping": {}
+      },
+      "ELt9FU92XZD": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/ELt9FU92XZD",
+        "mappedLevel": 3,
+        "mappedName": "ce Ngabwe District",
+        "mapping": {}
+      },
+      "EdEpJ41rhF6": {
+        "code": "6070",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "6070",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/EdEpJ41rhF6",
+        "mappedLevel": 3,
+        "mappedName": "no Mbala District",
+        "mapping": {}
+      },
+      "Emc3MBqdet8": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/Emc3MBqdet8",
+        "mappedLevel": 3,
+        "mappedName": "ea Lumezi District",
+        "mapping": {}
+      },
+      "FuvOOwvBw0p": {
+        "code": "603000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "603000",
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F/FuvOOwvBw0p",
+        "mappedLevel": 3,
+        "mappedName": "mu Isoka District",
+        "mapping": {}
+      },
+      "G2nVDIpA0mE": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/G2nVDIpA0mE",
+        "mappedLevel": 3,
+        "mappedName": "co Ndola District",
+        "mapping": {}
+      },
+      "Gk1xAY3wm9w": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/Gk1xAY3wm9w",
+        "mappedLevel": 3,
+        "mappedName": "ea Sinda District",
+        "mapping": {}
+      },
+      "HPGiE9Jjh2r": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/HPGiE9Jjh2r",
+        "mappedLevel": 3,
+        "mappedName": "ce Chisamba District",
+        "mapping": {}
+      },
+      "J7PQPWAeRUk": {
+        "code": "300000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "300000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk",
+        "mappedLevel": 2,
+        "mappedName": "ea Eastern Province",
+        "mapping": {}
+      },
+      "KozcEjeTyuD": {
+        "code": "500000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "500000",
+        "mappedId": "/PS5JpkoHHio/KozcEjeTyuD",
+        "mappedLevel": 2,
+        "mappedName": "ls Lusaka Province",
+        "mapping": {}
+      },
+      "MHol2AAQxSL": {
+        "code": "308000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "308000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/MHol2AAQxSL",
+        "mappedLevel": 3,
+        "mappedName": "ea Petauke District",
+        "mapping": {}
+      },
+      "MQrVneDhKKn": {
+        "code": "503000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "503000",
+        "mappedId": "/PS5JpkoHHio/KozcEjeTyuD/MQrVneDhKKn",
+        "mappedLevel": 3,
+        "mappedName": "ls Luangwa District",
+        "mapping": {}
+      },
+      "MwFm7Ir4vzI": {
+        "code": "804000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "804000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/MwFm7Ir4vzI",
+        "mappedLevel": 3,
+        "mappedName": "so Kalomo District",
+        "mapping": {}
+      },
+      "NLjvK1QsrN3": {
+        "code": "501000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "501000",
+        "mappedId": "/PS5JpkoHHio/KozcEjeTyuD/NLjvK1QsrN3",
+        "mappedLevel": 3,
+        "mappedName": "ls Chongwe District",
+        "mapping": {}
+      },
+      "NRs3xBI4qF6": {
+        "code": "808000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "808000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/NRs3xBI4qF6",
+        "mappedLevel": 3,
+        "mappedName": "so Monze District",
+        "mapping": {}
+      },
+      "OAqKXOIWje0": {
+        "code": "706000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "706000",
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/OAqKXOIWje0",
+        "mappedLevel": 3,
+        "mappedName": "nw Solwezi District",
+        "mapping": {}
+      },
+      "Oapn6R4rt3D": {
+        "code": "401000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "401000",
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/Oapn6R4rt3D",
+        "mappedLevel": 3,
+        "mappedName": "lu Chiengi District",
+        "mapping": {}
+      },
+      "P7NaqvIQyOs": {
+        "code": "605000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "605000",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/P7NaqvIQyOs",
+        "mappedLevel": 3,
+        "mappedName": "no Kasama District",
+        "mapping": {}
+      },
+      "PS5JpkoHHio": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio",
+        "mappedLevel": 1,
+        "mappedName": "zm Zambia Ministry of Health",
+        "mapping": {}
+      },
+      "PlQiD2woAPw": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/PlQiD2woAPw",
+        "mappedLevel": 3,
+        "mappedName": "no Lunte District",
+        "mapping": {}
+      },
+      "Pq4OSjJIF4z": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/Pq4OSjJIF4z",
+        "mappedLevel": 3,
+        "mappedName": "ea Vubwi District",
+        "mapping": {}
+      },
+      "Q2vsyZtjCKw": {
+        "code": "702000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "702000",
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/Q2vsyZtjCKw",
+        "mappedLevel": 3,
+        "mappedName": "nw Kabompo District",
+        "mapping": {}
+      },
+      "Q9ewrtYhNOv": {
+        "code": "811099",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "811099",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/Q9ewrtYhNOv",
+        "mappedLevel": 3,
+        "mappedName": "so Siavonga District",
+        "mapping": {}
+      },
+      "QTtxiWj8ONP": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/QTtxiWj8ONP",
+        "mappedLevel": 3,
+        "mappedName": "lu Chembe District",
+        "mapping": {}
+      },
+      "QZt3FzaOkx9": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F/QZt3FzaOkx9",
+        "mappedLevel": 3,
+        "mappedName": "mu Shiwang'andu District",
+        "mapping": {}
+      },
+      "RXl1ctHnd1A": {
+        "code": "40060000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "40060000",
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/RXl1ctHnd1A",
+        "mappedLevel": 3,
+        "mappedName": "lu Mansa District",
+        "mapping": {}
+      },
+      "SJjjM0qNelL": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/SJjjM0qNelL",
+        "mappedLevel": 3,
+        "mappedName": "no Senga District",
+        "mapping": {}
+      },
+      "SQT8xjbvWwf": {
+        "code": "803000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "803000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/SQT8xjbvWwf",
+        "mappedLevel": 3,
+        "mappedName": "so Itezhi-tezhi District",
+        "mapping": {}
+      },
+      "SfFrfySzRgY": {
+        "code": "208000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "208000",
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/SfFrfySzRgY",
+        "mappedLevel": 3,
+        "mappedName": "co Mpongwe District",
+        "mapping": {}
+      },
+      "SvFNQpplnch": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/SvFNQpplnch",
+        "mappedLevel": 3,
+        "mappedName": "so Chirundu District",
+        "mapping": {}
+      },
+      "SwwuteU1Ajk": {
+        "code": "6050",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "6050",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk",
+        "mappedLevel": 2,
+        "mappedName": "no Northern Province",
+        "mapping": {}
+      },
+      "TKOOF8cvLah": {
+        "code": "802000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "802000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/TKOOF8cvLah",
+        "mappedLevel": 3,
+        "mappedName": "so Gwembe District",
+        "mapping": {}
+      },
+      "TPkxPw2bhI8": {
+        "code": "606000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "606000",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/TPkxPw2bhI8",
+        "mappedLevel": 3,
+        "mappedName": "no Luwingu District",
+        "mapping": {}
+      },
+      "U0FqpXTYwNn": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/U0FqpXTYwNn",
+        "mappedLevel": 3,
+        "mappedName": "no Nsama District",
+        "mapping": {}
+      },
+      "UE7BZCcd4ru": {
+        "code": "612000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "612000",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/UE7BZCcd4ru",
+        "mappedLevel": 3,
+        "mappedName": "no Mungwi District",
+        "mapping": {}
+      },
+      "UNR4TzatEyp": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/UNR4TzatEyp",
+        "mappedLevel": 3,
+        "mappedName": "ea Chasefu District",
+        "mapping": {}
+      },
+      "Vra182PfVXT": {
+        "code": "301000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "301000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/Vra182PfVXT",
+        "mappedLevel": 3,
+        "mappedName": "ea Chadiza District",
+        "mapping": {}
+      },
+      "VwikQC0hLMx": {
+        "code": "613000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "613000",
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F/VwikQC0hLMx",
+        "mappedLevel": 3,
+        "mappedName": "mu Nakonde District",
+        "mapping": {}
+      },
+      "WUGwOojuXhn": {
+        "code": "608000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "608000",
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F/WUGwOojuXhn",
+        "mappedLevel": 3,
+        "mappedName": "mu Mpika District",
+        "mapping": {}
+      },
+      "X8wgqN4p9l9": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/KozcEjeTyuD/X8wgqN4p9l9",
+        "mappedLevel": 3,
+        "mappedName": "ls Rufunsa District",
+        "mapping": {}
+      },
+      "XGrRE6z2k1p": {
+        "code": "801000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "801000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/XGrRE6z2k1p",
+        "mappedLevel": 3,
+        "mappedName": "so Choma District",
+        "mapping": {}
+      },
+      "Xuov31JWDss": {
+        "code": "809000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "809000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/Xuov31JWDss",
+        "mappedLevel": 3,
+        "mappedName": "so Namwala District",
+        "mapping": {}
+      },
+      "Y5Qs8ZnXPo7": {
+        "code": "304000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "304000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/Y5Qs8ZnXPo7",
+        "mappedLevel": 3,
+        "mappedName": "ea Katete District",
+        "mapping": {}
+      },
+      "Y6VY97xzyvw": {
+        "code": "703000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "703000",
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/Y6VY97xzyvw",
+        "mappedLevel": 3,
+        "mappedName": "nw Kasempa District",
+        "mapping": {}
+      },
+      "b2Cgyi4BuiO": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/b2Cgyi4BuiO",
+        "mappedLevel": 3,
+        "mappedName": "co Kitwe District",
+        "mapping": {}
+      },
+      "b5QDzyFeLWd": {
+        "code": "205000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "205000",
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/b5QDzyFeLWd",
+        "mappedLevel": 3,
+        "mappedName": "co Luanshya District",
+        "mapping": {}
+      },
+      "bPggpIUH2Bw": {
+        "code": "303000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "303000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/bPggpIUH2Bw",
+        "mappedLevel": 3,
+        "mappedName": "ea Chipata District",
+        "mapping": {}
+      },
+      "bW1rTUYvPMz": {
+        "code": "404000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "404000",
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/bW1rTUYvPMz",
+        "mappedLevel": 3,
+        "mappedName": "lu Milenge District",
+        "mapping": {}
+      },
+      "bhNMagz9WhD": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/bhNMagz9WhD",
+        "mappedLevel": 3,
+        "mappedName": "co Mufulira District",
+        "mapping": {}
+      },
+      "bjCC79pZC5f": {
+        "code": "402000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "402000",
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/bjCC79pZC5f",
+        "mappedLevel": 3,
+        "mappedName": "lu Kawambwa District",
+        "mapping": {}
+      },
+      "cButKSe15Zq": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/cButKSe15Zq",
+        "mappedLevel": 3,
+        "mappedName": "ea Chipangali District",
+        "mapping": {}
+      },
+      "cLYG2oIinWU": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/cLYG2oIinWU",
+        "mappedLevel": 3,
+        "mappedName": "lu Mwansabombwe District",
+        "mapping": {}
+      },
+      "d9vCXNPwvvL": {
+        "code": "203000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "203000",
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/d9vCXNPwvvL",
+        "mappedLevel": 3,
+        "mappedName": "co Kalulushi District",
+        "mapping": {}
+      },
+      "dbTLdTi7s8F": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F",
+        "mappedLevel": 2,
+        "mappedName": "mu Muchinga Province",
+        "mapping": {}
+      },
+      "dp5cPWW6xv8": {
+        "code": "604000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "604000",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/dp5cPWW6xv8",
+        "mappedLevel": 3,
+        "mappedName": "no Kaputa District",
+        "mapping": {}
+      },
+      "e89vE6G7gSP": {
+        "code": "611000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "611000",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/e89vE6G7gSP",
+        "mappedLevel": 3,
+        "mappedName": "no Mpulungu District",
+        "mapping": {}
+      },
+      "eL16jL32aft": {
+        "code": "306000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "306000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/eL16jL32aft",
+        "mappedLevel": 3,
+        "mappedName": "ea Mambwe District",
+        "mapping": {}
+      },
+      "ezPzz97CaXr": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/ezPzz97CaXr",
+        "mappedLevel": 3,
+        "mappedName": "nw Manyinga District",
+        "mapping": {}
+      },
+      "f2v64XQg4O6": {
+        "code": "307000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "307000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/f2v64XQg4O6",
+        "mappedLevel": 3,
+        "mappedName": "ea Nyimba District",
+        "mapping": {}
+      },
+      "g1bv2xjtV0w": {
+        "code": "900000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "900000",
+        "mappedId": "/PS5JpkoHHio/g1bv2xjtV0w",
+        "mappedLevel": 2,
+        "mappedName": "we Western Province",
+        "mapping": {}
+      },
+      "grvG4PUGBwQ": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/grvG4PUGBwQ",
+        "mappedLevel": 3,
+        "mappedName": "so Chikankata District",
+        "mapping": {}
+      },
+      "h1YXoH8lV3A": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/h1YXoH8lV3A",
+        "mappedLevel": 3,
+        "mappedName": "so Zimba District",
+        "mapping": {}
+      },
+      "hMOurLMZjoX": {
+        "code": "805000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "805000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/hMOurLMZjoX",
+        "mappedLevel": 3,
+        "mappedName": "so Kazungula District",
+        "mapping": {}
+      },
+      "hPzLRPGQhyk": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/hPzLRPGQhyk",
+        "mappedLevel": 3,
+        "mappedName": "ce Luano DIstrict",
+        "mapping": {}
+      },
+      "hywxVKv48Xp": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/KozcEjeTyuD/hywxVKv48Xp",
+        "mappedLevel": 3,
+        "mappedName": "ls Kafue District",
+        "mapping": {}
+      },
+      "i28jnGjQN10": {
+        "code": "103000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "103000",
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/i28jnGjQN10",
+        "mappedLevel": 3,
+        "mappedName": "ce Kapiri-Mposhi District",
+        "mapping": {}
+      },
+      "ibwukc3IOtw": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/ibwukc3IOtw",
+        "mappedLevel": 3,
+        "mappedName": "lu Samfya District",
+        "mapping": {}
+      },
+      "iw118CSx0OW": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F/iw118CSx0OW",
+        "mappedLevel": 3,
+        "mappedName": "mu Lavushimanda District",
+        "mapping": {}
+      },
+      "jCJxK8sFH40": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/jCJxK8sFH40",
+        "mappedLevel": 3,
+        "mappedName": "lu Chipili District",
+        "mapping": {}
+      },
+      "jNFgOiE4moz": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/jNFgOiE4moz",
+        "mappedLevel": 3,
+        "mappedName": "ce Shibuyunji District",
+        "mapping": {}
+      },
+      "k3q47RyPfIf": {
+        "code": "807099",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "807099",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/k3q47RyPfIf",
+        "mappedLevel": 3,
+        "mappedName": "so Mazabuka District",
+        "mapping": {}
+      },
+      "kbRJIC4LHCT": {
+        "code": "104000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "104000",
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/kbRJIC4LHCT",
+        "mappedLevel": 3,
+        "mappedName": "ce Mkushi District",
+        "mapping": {}
+      },
+      "kscNOUDO0XN": {
+        "code": "206000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "206000",
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/kscNOUDO0XN",
+        "mappedLevel": 3,
+        "mappedName": "co Lufwanyama District",
+        "mapping": {}
+      },
+      "l7kwddqAUuV": {
+        "code": "305000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "305000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/l7kwddqAUuV",
+        "mappedLevel": 3,
+        "mappedName": "ea Lundazi District",
+        "mapping": {}
+      },
+      "mJa1jLXRrrK": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/mJa1jLXRrrK",
+        "mappedLevel": 3,
+        "mappedName": "so Pemba District",
+        "mapping": {}
+      },
+      "n0CXsSP6Esm": {
+        "code": "106000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "106000",
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/n0CXsSP6Esm",
+        "mappedLevel": 3,
+        "mappedName": "ce Serenje District",
+        "mapping": {}
+      },
+      "nO68NTtcdw2": {
+        "code": "602000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "602000",
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F/nO68NTtcdw2",
+        "mappedLevel": 3,
+        "mappedName": "mu Chinsali District",
+        "mapping": {}
+      },
+      "na58mHU96zc": {
+        "code": "405000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "405000",
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/na58mHU96zc",
+        "mappedLevel": 3,
+        "mappedName": "lu Mwense District",
+        "mapping": {}
+      },
+      "ntoX1PkiWri": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/KozcEjeTyuD/ntoX1PkiWri",
+        "mappedLevel": 3,
+        "mappedName": "ls Chilanga District",
+        "mapping": {}
+      },
+      "o0jgNBf8WkJ": {
+        "code": "406000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "406000",
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/o0jgNBf8WkJ",
+        "mappedLevel": 3,
+        "mappedName": "lu Nchelenge District",
+        "mapping": {}
+      },
+      "o8B4Up9xxJI": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/KozcEjeTyuD/o8B4Up9xxJI",
+        "mappedLevel": 3,
+        "mappedName": "ls Lusaka District",
+        "mapping": {}
+      },
+      "oEBf29y8JP8": {
+        "code": "101000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "101000",
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/oEBf29y8JP8",
+        "mappedLevel": 3,
+        "mappedName": "ce Chibombo District",
+        "mapping": {}
+      },
+      "oFvkx78MhC9": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/B1u1bVtIA92/oFvkx78MhC9",
+        "mappedLevel": 3,
+        "mappedName": "lu Lunga District",
+        "mapping": {}
+      },
+      "oPLMrarKeEY": {
+        "code": "800000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "800000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY",
+        "mappedLevel": 2,
+        "mappedName": "so Southern Province",
+        "mapping": {}
+      },
+      "q5hODNmn021": {
+        "code": "700000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "700000",
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021",
+        "mappedLevel": 2,
+        "mappedName": "nw North-Western Province",
+        "mapping": {}
+      },
+      "qKkhij0V9Wb": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/qKkhij0V9Wb",
+        "mappedLevel": 3,
+        "mappedName": "nw Ikelenge District",
+        "mapping": {}
+      },
+      "rPFvpPr79FT": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/rPFvpPr79FT",
+        "mappedLevel": 3,
+        "mappedName": "no Lupososhi District",
+        "mapping": {}
+      },
+      "rmtQCSpiaGq": {
+        "code": "609000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "609000",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/rmtQCSpiaGq",
+        "mappedLevel": 3,
+        "mappedName": "no Mporokoso District",
+        "mapping": {}
+      },
+      "rsnNQkFGMcj": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/dbTLdTi7s8F/rsnNQkFGMcj",
+        "mappedLevel": 3,
+        "mappedName": "mu Mafinga District",
+        "mapping": {}
+      },
+      "sLIHwiFp41i": {
+        "code": "201000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "201000",
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/sLIHwiFp41i",
+        "mappedLevel": 3,
+        "mappedName": "co Chililabombwe District",
+        "mapping": {}
+      },
+      "sNAdEeUXVUz": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/sNAdEeUXVUz",
+        "mappedLevel": 3,
+        "mappedName": "ce Kabwe District",
+        "mapping": {}
+      },
+      "sYuch1KySuv": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/sYuch1KySuv",
+        "mappedLevel": 3,
+        "mappedName": "nw Kalumbila District",
+        "mapping": {}
+      },
+      "svOkUE0zEKJ": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/svOkUE0zEKJ",
+        "mappedLevel": 3,
+        "mappedName": "nw Mufumbwe District",
+        "mapping": {}
+      },
+      "tbIRVsMQUdg": {
+        "code": "105000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "105000",
+        "mappedId": "/PS5JpkoHHio/AWn3s2RqgAN/tbIRVsMQUdg",
+        "mappedLevel": 3,
+        "mappedName": "ce Mumbwa District",
+        "mapping": {}
+      },
+      "utIjliUdjp8": {
+        "code": "200000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "200000",
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8",
+        "mappedLevel": 2,
+        "mappedName": "co Copperbelt Province",
+        "mapping": {}
+      },
+      "v5q6MnxfJHT": {
+        "code": "812000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "812000",
+        "mappedId": "/PS5JpkoHHio/oPLMrarKeEY/v5q6MnxfJHT",
+        "mappedLevel": 3,
+        "mappedName": "so Sinazongwe District",
+        "mapping": {}
+      },
+      "w7Ef7JBBaPq": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/w7Ef7JBBaPq",
+        "mappedLevel": 3,
+        "mappedName": "nw Mushindamo District",
+        "mapping": {}
+      },
+      "wXmqWz5yKbw": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/wXmqWz5yKbw",
+        "mappedLevel": 3,
+        "mappedName": "ea Kasenengwa District",
+        "mapping": {}
+      },
+      "weCNzKLpK2o": {
+        "code": "705000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "705000",
+        "mappedId": "/PS5JpkoHHio/q5hODNmn021/weCNzKLpK2o",
+        "mappedLevel": 3,
+        "mappedName": "nw Mwinilunga District",
+        "mapping": {}
+      },
+      "y3gZjiNvEhh": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "/PS5JpkoHHio/utIjliUdjp8/y3gZjiNvEhh",
+        "mappedLevel": 3,
+        "mappedName": "co Chingola District",
+        "mapping": {}
+      },
+      "ydyJb1RAy4U": {
+        "code": "302000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "302000",
+        "mappedId": "/PS5JpkoHHio/J7PQPWAeRUk/ydyJb1RAy4U",
+        "mappedLevel": 3,
+        "mappedName": "ea Chama District",
+        "mapping": {}
+      },
+      "zVGDJflzhPb": {
+        "code": "601000",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "601000",
+        "mappedId": "/PS5JpkoHHio/SwwuteU1Ajk/zVGDJflzhPb",
+        "mappedLevel": 3,
+        "mappedName": "no Chilubi District",
+        "mapping": {}
+      }
+    },
+    "programDataElements": {
+      "JRuLW57woOB-mRDg7F9tAZH-AppWSjBgtIz": {
+        "code": "EVENT_DISTRIBUTION",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "EVENT_DISTRIBUTION",
+        "mappedId": "AppWSjBgtIz",
+        "mappedName": "Event distribution within country",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-Avuy4qMx47D": {
+        "code": "REPORTED_ANIMAL_CASES_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_ANIMAL_CASES_NEW",
+        "mappedId": "Avuy4qMx47D",
+        "mappedName": "Reported animal cases - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-GFlQpwGQNNN": {
+        "code": "UPDATES_SOURCE_DOC1",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "UPDATES_SOURCE_DOC1",
+        "mappedId": "GFlQpwGQNNN",
+        "mappedName": "Daily/weekly update - source document 1",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-JoFnbRQT66J": {
+        "code": "SUSCEPTABLE_ANIMAL_CASES_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "SUSCEPTABLE_ANIMAL_CASES_NEW",
+        "mappedId": "JoFnbRQT66J",
+        "mappedName": "Susceptible animal cases - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-KoIFcRixVJr": {
+        "code": "UPDATES_SOURCE_DOC2",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "UPDATES_SOURCE_DOC2",
+        "mappedId": "KoIFcRixVJr",
+        "mappedName": "Daily/weekly update - source document 2",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-L1WIsYXZHfb": {
+        "code": "EVENT_DESCRIPTION_UPDATE",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "EVENT_DESCRIPTION_UPDATE",
+        "mappedId": "L1WIsYXZHfb",
+        "mappedName": "Event description update",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-LFi3vm9dd5A": {
+        "code": "EVENT_LASTUPDATED_BY",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_ALERTS_EVT_LAST_UPDATED_BY",
+        "mappedId": "ycN1hVp2M5f",
+        "mappedName": " Event last updated By",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-N9YnWLhO5YT": {
+        "code": "CONFIRMED_REPORTED_HUMAN_CASES_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_DET_CONF_CASES",
+        "mappedId": "ApKJDLI5nHP",
+        "mappedName": "Confirmed Cases ",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-OWlOCqeNX1q": {
+        "code": "COMBO_district _LIST",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "COMBO_district _LIST",
+        "mappedId": "OWlOCqeNX1q",
+        "mappedName": "Combo district list",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-OdcXvW9sRW7": {
+        "code": "SUSPECTED_REPORTED_HUMAN_CASES_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_DET_SUS_CASES",
+        "mappedId": "d4B5pN7ZTEu",
+        "mappedName": "Suspected Cases ",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-Pg1qZvjwNLd": {
+        "code": "REPORTED_HUMAN_CASES_COMMUNITY_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_HUMAN_CASES_COMMUNITY_NEW",
+        "mappedId": "Pg1qZvjwNLd",
+        "mappedName": "Reported human cases in community - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-RAJ7uQQvDyk": {
+        "code": "CONTACTS_COMPLETED_MONITORING_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "CONTACTS_COMPLETED_MONITORING_NEW",
+        "mappedId": "RAJ7uQQvDyk",
+        "mappedName": "Contacts who completed monitoring - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-Sgwgr16wnyA": {
+        "code": "CONTACTS_FOLLOWED_UP_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "CONTACTS_FOLLOWED_UP_NEW",
+        "mappedId": "Sgwgr16wnyA",
+        "mappedName": "Contacts followed up - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-TlyT82eTiFU": {
+        "code": "REPORTED_HUMAN_VACC_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_HUMAN_VACC_NEW",
+        "mappedId": "TlyT82eTiFU",
+        "mappedName": "Reported human vaccinations - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-UTdQahMcNQj": {
+        "code": "REPORTED_LAB_TESTS_NEG_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_LAB_TESTS_NEG_NEW",
+        "mappedId": "UTdQahMcNQj",
+        "mappedName": "Reported laboratory tests negative - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-Vg7NPVpmPvi": {
+        "code": "REPORTED_HUMAN_DEATHS_COMMUNITY_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_HUMAN_DEATHS_COMMUNITY_NEW",
+        "mappedId": "Vg7NPVpmPvi",
+        "mappedName": "Reported human deaths in community - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-VnHmmfDZRL8": {
+        "code": "REPORTED_HUMAN_DEATHS_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_DET_DEATHS",
+        "mappedId": "Sfl82Bx0ZNz",
+        "mappedName": "Deaths",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-XE0l3snpzH8": {
+        "code": "REPORTED_ANIMAL_DEATHS_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_ANIMAL_DEATHS_NEW",
+        "mappedId": "XE0l3snpzH8",
+        "mappedName": "Reported animal deaths - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-YWT49rK48Kv": {
+        "code": "CONFIRMED_REPORTED_HCW _DEATHS_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "CONFIRMED_REPORTED_HCW _DEATHS_NEW",
+        "mappedId": "YWT49rK48Kv",
+        "mappedName": "Confirmed reported HCW deaths - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-Zen36o4g1HW": {
+        "code": "EVENT_LOCATION_NAME_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "EVENT_LOCATION_NAME_NEW",
+        "mappedId": "Zen36o4g1HW",
+        "mappedName": "Event location names - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-bsOhL5gMiA2": {
+        "code": "REPORTED_HUMAN_RECOVERIES_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_HUMAN_RECOVERIES_NEW",
+        "mappedId": "bsOhL5gMiA2",
+        "mappedName": "Reported human recoveries - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-eszSkeX2wzN": {
+        "code": "EVENT_LASTUPDATED_DATETIME",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_ALERTS_EVT_LAST_UPDATED",
+        "mappedId": "YlgM9XtVgTz",
+        "mappedName": " Event last updated Date/Time ",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-gaaPXZirDQa": {
+        "code": "CONTACTS_IDENTIFIED_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "CONTACTS_IDENTIFIED_NEW",
+        "mappedId": "gaaPXZirDQa",
+        "mappedName": "Contacts identified - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-hFv6sAgCAfA": {
+        "code": "HOSPITALISED_CASES_CURRENT",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "HOSPITALISED_CASES_CURRENT",
+        "mappedId": "hFv6sAgCAfA",
+        "mappedName": "Hospitalised cases - current",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-iilhNe2axKQ": {
+        "code": "UPDATES_SOURCE_URL1",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "UPDATES_SOURCE_URL1",
+        "mappedId": "iilhNe2axKQ",
+        "mappedName": "Daily/weekly update - source URL 1",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-kL42B2XHokE": {
+        "code": "REPORTED_LAB_TESTS_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_LAB_TESTS_NEW",
+        "mappedId": "kL42B2XHokE",
+        "mappedName": "Reported laboratory tests - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-qULIQmjxQ7g": {
+        "code": "CONTACTS_TESTED_POSITIVE_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "CONTACTS_TESTED_POSITIVE_NEW",
+        "mappedId": "qULIQmjxQ7g",
+        "mappedName": "Contacts tested positive - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-qr6iFlPrOou": {
+        "code": "EXCLUDE_WEEKLY_REP",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "EXCLUDE_WEEKLY_REP",
+        "mappedId": "qr6iFlPrOou",
+        "mappedName": "Exclude from weekly report",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-rwmESvBhTBJ": {
+        "code": "INTERVENTIONS_MOH_ZNPHI_PHO",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "INTERVENTIONS_MOH_ZNPHI_PHO",
+        "mappedId": "rwmESvBhTBJ",
+        "mappedName": "Interventions by MOH/ZNPHI/PHO",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-tcXyVYZKDmO": {
+        "code": "CONTACTS_FOLLOWED_SYMPTOMATIC_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "CONTACTS_FOLLOWED_SYMPTOMATIC_NEW",
+        "mappedId": "tcXyVYZKDmO",
+        "mappedName": "Contacts followed symptomatic - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-wpLtOArTD3n": {
+        "code": "HOSPITAL_ADMISSIONS_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "HOSPITAL_ADMISSIONS_NEW",
+        "mappedId": "wpLtOArTD3n",
+        "mappedName": "Hospital admissions - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-xp2cVKbT7z8": {
+        "code": "REPORTED_LAB_TESTS_POS_NEW",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "REPORTED_LAB_TESTS_POS_NEW",
+        "mappedId": "xp2cVKbT7z8",
+        "mappedName": "Reported laboratory tests positive - new",
+        "mapping": {}
+      },
+      "JRuLW57woOB-mRDg7F9tAZH-zjPDHxvxO1Y": {
+        "code": "UPDATES_SOURCE_URL2",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "UPDATES_SOURCE_URL2",
+        "mappedId": "zjPDHxvxO1Y",
+        "mappedName": "Daily/weekly update - source URL 2",
+        "mapping": {}
+      },
+      "N9YnWLhO5YT": {
+        "code": "CONFIRMED_REPORTED_HUMAN_CASES_NEW",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_DET_CONF_CASES",
+        "mappedId": "ApKJDLI5nHP",
+        "mappedName": "Confirmed Cases ",
+        "mapping": {}
+      },
+      "OdcXvW9sRW7": {
+        "code": "SUSPECTED_REPORTED_HUMAN_CASES_NEW",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_DET_SUS_CASES",
+        "mappedId": "d4B5pN7ZTEu",
+        "mappedName": "Suspected Cases ",
+        "mapping": {}
+      },
+      "VnHmmfDZRL8": {
+        "code": "REPORTED_HUMAN_DEATHS_NEW",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_DET_DEATHS",
+        "mappedId": "Sfl82Bx0ZNz",
+        "mappedName": "Deaths",
+        "mapping": {}
+      },
+      "lOl69tQ4SsN": {
+        "code": "CONFIRMED_REPORTED_HCW _CASES_NEW",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_DET_CONF_CASES",
+        "mappedId": "ApKJDLI5nHP",
+        "mappedName": "Confirmed Cases ",
+        "mapping": {}
+      },
+      "sheYRpw3hy5": {
+        "code": "PROBABLE_REPORTED_HUMAN_CASES_NEW",
+        "conflicts": false,
+        "global": true,
+        "mappedCode": "RTSL_ZEB_DET_PROB_CASES",
+        "mappedId": "bUMlIfyJEYK",
+        "mappedName": "Probable Cases ",
+        "mapping": {}
+      },
+      "xDsAFnQMmeU-IVsPtKIxhxH-GmmqZQDsZm5": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_DET_SUS_CASES",
+        "mappedId": "d4B5pN7ZTEu",
+        "mappedName": "Suspected Cases ",
+        "mapping": {}
+      },
+      "xDsAFnQMmeU-IVsPtKIxhxH-LFi3vm9dd5A": {
+        "code": "EVENT_LASTUPDATED_BY",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_ALERTS_EVT_LAST_UPDATED_BY",
+        "mappedId": "ycN1hVp2M5f",
+        "mappedName": " Event last updated By",
+        "mapping": {}
+      },
+      "xDsAFnQMmeU-IVsPtKIxhxH-oVvq8C5U57H": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_DET_DEATHS",
+        "mappedId": "Sfl82Bx0ZNz",
+        "mappedName": "Deaths",
+        "mapping": {}
+      },
+      "xDsAFnQMmeU-IVsPtKIxhxH-z2obVGYcQhR": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_DET_CONF_CASES",
+        "mappedId": "ApKJDLI5nHP",
+        "mappedName": "Confirmed Cases ",
+        "mapping": {}
+      }
+    },
+    "trackedEntityAttributesToDE": {},
+    "trackedEntityAttributesToTEI": {
+      "BgAqKOVZteZ": {
+        "code": "TEA_SIGNAL_EVENT_VERIFICATION_STATUS",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_VERIFICATION_STATUS",
+        "mappedId": "HvgldgBK8Th",
+        "mappedName": "Verification Status",
+        "mapping": {
+          "options": {
+            "RxAgE0n4fmK": {
+              "code": "VERIFICATION_STATUS_PENDING",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_PENDING_VERIFICATION",
+              "mappedId": "f4cuVuumDOk",
+              "mappedName": "Pending Verification",
+              "mapping": {}
+            },
+            "XhECSlW1MBj": {
+              "code": "VERIFICATION_STATUS_VERIFIED",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_VERIFIED",
+              "mappedId": "Yoh17eYfxNJ",
+              "mappedName": "Verified ",
+              "mapping": {}
+            },
+            "iS1RbOBm5lj": {
+              "code": "VERIFICATION_STATUS_NOT_EVENT",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_NOT_AN_EVENT",
+              "mappedId": "rUkKaxRq1Oh",
+              "mappedName": "Not an event",
+              "mapping": {}
+            }
+          }
+        }
+      },
+      "CJkJraokrXn": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_NATIONAL_INCIDENT_STATUS",
+        "mappedId": "KeUbzfFQYCX",
+        "mappedName": "National Incident Status",
+        "mapping": {
+          "options": {
+            "BouskzSZQeT": {
+              "code": "PHEOC_ALERT",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "PHEOC_STATUS_ALERT",
+              "mappedId": "PNxxjc0ojhu",
+              "mappedName": "Alert",
+              "mapping": {}
+            },
+            "G015t7GCibr": {
+              "code": "PHEOC_WATCH",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "PHEOC_STATUS_WATCH",
+              "mappedId": "TP08uLRVOEw",
+              "mappedName": "Watch",
+              "mapping": {}
+            },
+            "f4tgjsxaSfe": {
+              "code": "PHEOC_RESPONSE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "PHEOC_STATUS_RESPOND",
+              "mappedId": "aJENZsZi3xd",
+              "mappedName": "Respond",
+              "mapping": {}
+            }
+          }
+        }
+      },
+      "GA1aOVJp7OL": {
+        "code": "TEA_DATE_REPORTED_NATIONAL",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_DATE_NOTIFIED",
+        "mappedId": "h9nPYaleCxE",
+        "mappedName": "Date Notified",
+        "mapping": {}
+      },
+      "Hq2v66059Xc": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_DATE_DETECTED",
+        "mappedId": "ecYRs96jEwd",
+        "mappedName": "Date Detected",
+        "mapping": {}
+      },
+      "ICSuCCiy4jX": {
+        "code": "TEA_EVENT_INTERVENTION_DATE",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_DATE_RESPONDED",
+        "mappedId": "BiSEw3wdAyx",
+        "mappedName": "Date Responded",
+        "mapping": {}
+      },
+      "JZhJVOvnLwE": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_DATE_RESPONDED",
+        "mappedId": "BiSEw3wdAyx",
+        "mappedName": "Date Responded",
+        "mapping": {}
+      },
+      "LHRHQ0ex3jA": {
+        "code": "TEA_EVENT_CREATED_BY",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_ ALERT_IM_NAME",
+        "mappedId": "PfHEY0p99e7",
+        "mappedName": "Alert Incident Manager Name",
+        "mapping": {}
+      },
+      "NY3286d2tSr": {
+        "code": "TEA_SIGNAL_EVENT_TYPE",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_EVENT_TYPE",
+        "mappedId": "ydsfY6zyvt7",
+        "mappedName": "Event Type",
+        "mapping": {
+          "options": {
+            "D8X51q0bOyL": {
+              "code": "EVENT_TYPE_HUMAN",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_BIOLOGICAL_HUMAN",
+              "mappedId": "Q6IgkKLmv5h",
+              "mappedName": "Biological: Human",
+              "mapping": {}
+            },
+            "HF0ooaDNxR9": {
+              "code": "EVENT_TYPE_ENVIRONMENTAL",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_ENVIRONMENTAL",
+              "mappedId": "Ne4jobiQL6t",
+              "mappedName": "Environmental",
+              "mapping": {}
+            },
+            "hr7aSwYunz2": {
+              "code": "EVENT_TYPE_HUMAN_ANIMAL",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_BIOLOGICAL_HUM_ANM",
+              "mappedId": "O1IAn5h3rGJ",
+              "mappedName": "Biological: Human and Animal",
+              "mapping": {}
+            },
+            "if9izcevCS4": {
+              "code": "EVENT_TYPE_ANIMAL",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_BIOLOGICAL_ANIMAL",
+              "mappedId": "UscXINLumPM",
+              "mappedName": "Biological: Animal",
+              "mapping": {}
+            },
+            "uDfkkjJaKWz": {
+              "code": "EVENT_TYPE_BIO_WARFARE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_HAZARD_TYPE_CHEMICAL",
+              "mappedId": "tAWvFQvutf3",
+              "mappedName": "Chemical",
+              "mapping": {}
+            }
+          }
+        }
+      },
+      "PZqvBpoYn7x": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_ ALERT_IM_NAME",
+        "mappedId": "PfHEY0p99e7",
+        "mappedName": "Alert Incident Manager Name",
+        "mapping": {}
+      },
+      "YDUOTtNQm99": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_DATE_NOTIFIED",
+        "mappedId": "h9nPYaleCxE",
+        "mappedName": "Date Notified",
+        "mapping": {}
+      },
+      "YXfstUPcEt0": {
+        "code": "TEA_EVENT_START_DATE",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_DATE_EMERGED",
+        "mappedId": "PlAQX9j3tBD",
+        "mappedName": "Date Emerged ",
+        "mapping": {}
+      },
+      "aT46nEWWuDL": {
+        "code": "TEA_DETECTION_DATE_DIS",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_DATE_DETECTED",
+        "mappedId": "ecYRs96jEwd",
+        "mappedName": "Date Detected",
+        "mapping": {}
+      },
+      "d1AUyuOOo62": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_VERIFICATION_STATUS",
+        "mappedId": "HvgldgBK8Th",
+        "mappedName": "Verification Status",
+        "mapping": {
+          "options": {
+            "RxAgE0n4fmK": {
+              "code": "VERIFICATION_STATUS_PENDING",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_PENDING_VERIFICATION",
+              "mappedId": "f4cuVuumDOk",
+              "mappedName": "Pending Verification",
+              "mapping": {}
+            },
+            "XhECSlW1MBj": {
+              "code": "VERIFICATION_STATUS_VERIFIED",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_VERIFIED",
+              "mappedId": "Yoh17eYfxNJ",
+              "mappedName": "Verified ",
+              "mapping": {}
+            },
+            "iS1RbOBm5lj": {
+              "code": "VERIFICATION_STATUS_NOT_EVENT",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_AL_OS_VERIFICATION_NOT_AN_EVENT",
+              "mappedId": "rUkKaxRq1Oh",
+              "mappedName": "Not an event",
+              "mapping": {}
+            }
+          }
+        }
+      },
+      "kAI5cvh9Tmd": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_ALERTS_TEA_SUSPECTED_DISEASE",
+        "mappedId": "pQaEdMQmnKj",
+        "mappedName": "Alert Suspected Disease",
+        "mapping": {
+          "options": {
+            "DzORAvthUnd": {
+              "code": "DA034_ANTHRAX",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_ANTHRAX",
+              "mappedId": "ostWucrbWVp",
+              "mappedName": "Anthrax",
+              "mapping": {}
+            },
+            "LLCeIIw3NlU": {
+              "code": "DU071_COVID19",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_COVID19",
+              "mappedId": "rUrVeGKjKsh",
+              "mappedName": "COVID19",
+              "mapping": {}
+            },
+            "MjqCqAozlCK": {
+              "code": "DA985_VHF",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_ACUTE_VHF",
+              "mappedId": "h36m0Og5JxF",
+              "mappedName": "Acute VHF",
+              "mapping": {}
+            },
+            "Qy6oVcC3utK": {
+              "code": "DA050_FOOD_POISONING",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_UNKNOWN",
+              "mappedId": "dI8cKW8fPTm",
+              "mappedName": "Unknown",
+              "mapping": {}
+            },
+            "SjZeJdTnvhI": {
+              "code": "DA950_YFEVER",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_UNKNOWN",
+              "mappedId": "dI8cKW8fPTm",
+              "mappedName": "Unknown",
+              "mapping": {}
+            },
+            "X6jlSRFm2ob": {
+              "code": "DB050_MEASLES",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_MEASLES",
+              "mappedId": "ZxcNGjj2VLU",
+              "mappedName": "Measles",
+              "mapping": {}
+            },
+            "dZ60QnpWqyo": {
+              "code": "DA069_DIARR_BLOOD",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_DIARRHOEA_W_BLOOD",
+              "mappedId": "kil97LSHfy5",
+              "mappedName": "Diarrhoea with blood",
+              "mapping": {}
+            },
+            "leAmK4Lbw2v": {
+              "code": "DA090_DIARR_NON_BLOOD",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_UNKNOWN",
+              "mappedId": "dI8cKW8fPTm",
+              "mappedName": "Unknown",
+              "mapping": {}
+            },
+            "pANhfeWJ4ZQ": {
+              "code": "DA850_AFP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_AFP",
+              "mappedId": "awczBIdlie6",
+              "mappedName": "AFP",
+              "mapping": {}
+            },
+            "reHtbs60N38": {
+              "code": "DB560_TRYPANOSOMIASIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "RTSL_ZEB_OS_DISEASE_UNKNOWN",
+              "mappedId": "dI8cKW8fPTm",
+              "mappedName": "Unknown",
+              "mapping": {}
+            }
+          }
+        }
+      },
+      "qaFf1K9JUby": {
+        "code": "TEA_EMS_ID",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_EMS_ID",
+        "mappedId": "nw5JvspoJ4N",
+        "mappedName": "EMS ID",
+        "mapping": {}
+      },
+      "rfg6oQYBIKk": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_ OutBreak_ID",
+        "mappedId": "WGXUs3lyO2s",
+        "mappedName": " OutBreak ID",
+        "mapping": {}
+      },
+      "ulJKIfQyYoA": {
+        "code": "TEA_AGENT_SYNDROME",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_ALERTS_TEA_SUSPECTED_DISEASE",
+        "mappedId": "pQaEdMQmnKj",
+        "mappedName": "Alert Suspected Disease",
+        "mapping": {
+          "options": {
+            "ASoJxa0DpSY": {
+              "code": "WEST_NILE_FEVER_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_WEST_NILE_FEVER_VIRUS",
+              "mappedId": "VzdVwPUOZMT",
+              "mappedName": "West Nile virus",
+              "mapping": {}
+            },
+            "ATN1ipSYh8W": {
+              "code": "MENINGITIS_BACTERIAL",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MENINGITIS_BACTERIAL",
+              "mappedId": "mcY0gz5iHUW",
+              "mappedName": "Meningitis (Bacterial)",
+              "mapping": {}
+            },
+            "BBKcDyz0GDm": {
+              "code": "TUNGIASIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_TUNGIASIS",
+              "mappedId": "x44Tc5w9mkt",
+              "mappedName": "Tunga spp",
+              "mapping": {}
+            },
+            "BLqJN7QWOG3": {
+              "code": "CLOSTRIDIUM_TETANI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CLOSTRIDIUM_TETANI",
+              "mappedId": "kkgVzLcMaDr",
+              "mappedName": "Clostridium tetani",
+              "mapping": {}
+            },
+            "BUroNdIUEP8": {
+              "code": "NEISSERIA_GONORRHOEAE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NEISSERIA_GONORRHOEAE",
+              "mappedId": "hPblB9dP7Ui",
+              "mappedName": "Neisseria gonorrhoeae",
+              "mapping": {}
+            },
+            "BubqHzuDPav": {
+              "code": "RICIN",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_RICIN",
+              "mappedId": "P4rdebv0fhW",
+              "mappedName": "Ricin",
+              "mapping": {}
+            },
+            "C8YUhV5QDvY": {
+              "code": "ENDEMIC_ARBOVIRAL",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ENDEMIC_ARBOVIRAL",
+              "mappedId": "nRNubRtgqdE",
+              "mappedName": "Arboviral disease (endemic)",
+              "mapping": {}
+            },
+            "Df1sXmUsJ8J": {
+              "code": "RICKETTSIA_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_RICKETTSIA_SPP",
+              "mappedId": "OEMxw65yd1G",
+              "mappedName": "Rickettsia spp",
+              "mapping": {}
+            },
+            "DqwLFccPOpa": {
+              "code": "SARIN",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SARIN",
+              "mappedId": "CSlnLlpxvOt",
+              "mappedName": "Sarin",
+              "mapping": {}
+            },
+            "DrUH2oOwFSU": {
+              "code": "ORF_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ORF_VIRUS",
+              "mappedId": "kN9k72gakOy",
+              "mappedName": "Orf virus",
+              "mapping": {}
+            },
+            "DroF50SumwB": {
+              "code": "ANTHRACIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ANTHRACIS",
+              "mappedId": "BexGk5ktsgc",
+              "mappedName": "Bacillus anthracis",
+              "mapping": {}
+            },
+            "E6sgivcFoSE": {
+              "code": "SARS_COV",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SARS_COV",
+              "mappedId": "NSpbGqn66kp",
+              "mappedName": "SARS-Cov",
+              "mapping": {}
+            },
+            "EQzqXMqwMRH": {
+              "code": "ALGAL_BLOOM",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ALGAL_BLOOM",
+              "mappedId": "b3SHCnToy4E",
+              "mappedName": "Algal Bloom",
+              "mapping": {}
+            },
+            "ET0dDbgXc3W": {
+              "code": "LEGIONELLA_PNEUMOPHILA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_LEGIONELLA_PNEUMOPHILA",
+              "mappedId": "nzlU6XCng4h",
+              "mappedName": "Legionella pneumophila",
+              "mapping": {}
+            },
+            "EUxkZHeKyqa": {
+              "code": "RIFT_VALLEY_FEVER_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_RIFT_VALLEY_FEVER_VIRUS",
+              "mappedId": "M6DNYXCf6qK",
+              "mappedName": "Rift Valley Fever virus",
+              "mapping": {}
+            },
+            "EbL8tOtyNtd": {
+              "code": "SARI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SARI",
+              "mappedId": "somhD6IcPc6",
+              "mappedName": "Severe Acute Respiratory Syndrome",
+              "mapping": {}
+            },
+            "F020cy5bFQu": {
+              "code": "ACUTE_NEUROLOGIC_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ACUTE_NEUROLOGIC_SYNDROME",
+              "mappedId": "bbIF6moODZE",
+              "mappedName": "Acute Neurologic Syndrome",
+              "mapping": {}
+            },
+            "F3cdoRumS4z": {
+              "code": "PHLEBOVIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_PHLEBOVIRUS",
+              "mappedId": "mHwVVuthQGw",
+              "mappedName": "Phlebovirus",
+              "mapping": {}
+            },
+            "FA0ehS597bG": {
+              "code": "NOMA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NOMA",
+              "mappedId": "aQCn68cXskL",
+              "mappedName": "Noma",
+              "mapping": {}
+            },
+            "FUYO1sMzCZ8": {
+              "code": "BLASTOCYSTIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BLASTOCYSTIS",
+              "mappedId": "e09lpkync5f",
+              "mappedName": "Blastocystis spp",
+              "mapping": {}
+            },
+            "Gfg7ZTJOTkH": {
+              "code": "LEISHMANIA SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_LEISHMANIA SPP",
+              "mappedId": "zfYSl7BCm60",
+              "mappedName": "Leishmania spp",
+              "mapping": {}
+            },
+            "Gl2KOM7zRqC": {
+              "code": "BARIUM",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BARIUM",
+              "mappedId": "mOAMdzKB4K9",
+              "mappedName": "Barium",
+              "mapping": {}
+            },
+            "GlvcMVJa3Ba": {
+              "code": "POLYCHLORINATED_BIPHENYLS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_POLYCHLORINATED_BIPHENYLS",
+              "mappedId": "Kjkzj0ofL1s",
+              "mappedName": "Polychlorinated Biphenyls",
+              "mapping": {}
+            },
+            "H0jFEcHoDkh": {
+              "code": "CHLOROPICRIN",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CHLOROPICRIN",
+              "mappedId": "ZzjutG05K1k",
+              "mappedName": "Chloropicrin",
+              "mapping": {}
+            },
+            "Hkl3INaPsX0": {
+              "code": "LEPTOSPIROSIS_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_LEPTOSPIROSIS_SPP",
+              "mappedId": "nzgBc6blpXW",
+              "mappedName": "Leptospirosis spp",
+              "mapping": {}
+            },
+            "HrCa5udDfrW": {
+              "code": "CYCLOSPORA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CYCLOSPORA",
+              "mappedId": "O0Flh9uZhAD",
+              "mappedName": "Cyclospora",
+              "mapping": {}
+            },
+            "HuOFE02z9mn": {
+              "code": "CYTOMEGALOVIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CYTOMEGALOVIRUS",
+              "mappedId": "ldRR32RyU4k",
+              "mappedName": "Cytomegalovirus",
+              "mapping": {}
+            },
+            "I7ZsqmV2Ihd": {
+              "code": "FENTANYLS_AND_OTHER_OPIOIDS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_FENTANYLS_AND_OTHER_OPIOIDS",
+              "mappedId": "foo9waz552p",
+              "mappedName": "Fentanyls and other opioids",
+              "mapping": {}
+            },
+            "I7fMhM3uT5a": {
+              "code": "LASSA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_LASSA_VIRUS",
+              "mappedId": "uL9WtSKlJbW",
+              "mappedName": "Lassa virus",
+              "mapping": {}
+            },
+            "ILB411yiMSa": {
+              "code": "SCHISTOSOMA_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SCHISTOSOMA_SPP",
+              "mappedId": "Oouzizk9Lfl",
+              "mappedName": "Schistosoma spp",
+              "mapping": {}
+            },
+            "IQpd15fDJrc": {
+              "code": "ACUTE_ENCEPHALITIS_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ACUTE_ENCEPHALITIS_SYNDROME",
+              "mappedId": "LLJYFyhHpmb",
+              "mappedName": "Acute Encephalitis Syndrome",
+              "mapping": {}
+            },
+            "IhBfvblCjhQ": {
+              "code": "SANGASSOU_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SANGASSOU_VIRUS",
+              "mappedId": "l4nKPEHYVUJ",
+              "mappedName": "Sangassou virus",
+              "mapping": {}
+            },
+            "JKuBOWJxw5H": {
+              "code": "KAWASAKI_KAWASAKI_LIKE_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_KAWASAKI_KAWASAKI_LIKE_SYNDROME",
+              "mappedId": "mAd3kQHQxwB",
+              "mappedName": "Kawasaki/Kawasaki-like syndrome",
+              "mapping": {}
+            },
+            "JNzsYF406vD": {
+              "code": "CHLAMYDIA_PSITTACI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CHLAMYDIA_PSITTACI",
+              "mappedId": "C4nwZuDC2Kf",
+              "mappedName": "Chlamydia psittaci",
+              "mapping": {}
+            },
+            "Jcm63C2hy1L": {
+              "code": "EASTERN_EQUINE_ENCEPHALITIS_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_EASTERN_EQUINE_ENCEPHALITIS_VIRUS",
+              "mappedId": "opJTvQv4vZc",
+              "mappedName": "Eastern Equine Encephalitis virus",
+              "mapping": {}
+            },
+            "JqHxtlXxdLa": {
+              "code": "MERS_COV",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MERS_COV",
+              "mappedId": "jnyYgunJkJv",
+              "mappedName": "MERS-CoV",
+              "mapping": {}
+            },
+            "JtQ48MelxbP": {
+              "code": "WATERBORNE_ILLNESS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_WATERBORNE_ILLNESS",
+              "mappedId": "yQ7wri3k4fr",
+              "mappedName": "Waterborne illness",
+              "mapping": {}
+            },
+            "Ka2V7mvqDsI": {
+              "code": "SAXITOXIN",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SAXITOXIN",
+              "mappedId": "UkbOhoQBpKK",
+              "mappedName": "Saxitoxin",
+              "mapping": {}
+            },
+            "Ki0deE0J0F6": {
+              "code": "BROMINE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BROMINE",
+              "mappedId": "HyLYBOK1Cmj",
+              "mappedName": "Bromine",
+              "mapping": {}
+            },
+            "KqZxAKq7GSH": {
+              "code": "BOTULINUM_TOXIN",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BOTULINUM_TOXIN",
+              "mappedId": "EAG1WPnOMNi",
+              "mappedName": "Botulinum toxin",
+              "mapping": {}
+            },
+            "LVN3DdtAVbs": {
+              "code": "NODDING_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NODDING_SYNDROME",
+              "mappedId": "QNQEc7IcXOc",
+              "mappedName": "Nodding Syndrome",
+              "mapping": {}
+            },
+            "LjjpdIZppCk": {
+              "code": "AVIANFLU",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_AVIANFLU",
+              "mappedId": "ENS4VFgiWz4",
+              "mappedName": "Avian Influenza",
+              "mapping": {}
+            },
+            "LwBFlaP0ArI": {
+              "code": "ROTAVIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ROTAVIRUS",
+              "mappedId": "s17RrCxtsdg",
+              "mappedName": "Rotavirus",
+              "mapping": {}
+            },
+            "Lz39Xm7ngjZ": {
+              "code": "NEISSERIA_MENINGITIDIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NEISSERIA_MENINGITIDIS",
+              "mappedId": "nhQWQKvSBw3",
+              "mappedName": "Neisseria meningitidis",
+              "mapping": {}
+            },
+            "MS7KoneGopk": {
+              "code": "SCORPION_STING",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SCORPION_STING",
+              "mappedId": "SpePBMqIoaI",
+              "mappedName": "Scorpion Sting",
+              "mapping": {}
+            },
+            "MeEl2YrWmDQ": {
+              "code": "ACIDS_CAUSTICS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ACIDS_CAUSTICS",
+              "mappedId": "lYn5VgJNWh6",
+              "mappedName": "Acids - Caustics",
+              "mapping": {}
+            },
+            "Mi1LkYczSAG": {
+              "code": "HERPES_SIMPLEX",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HERPES_SIMPLEX",
+              "mappedId": "ydor03i6Ikx",
+              "mappedName": "Herpes Simplex",
+              "mapping": {}
+            },
+            "MjspuJxmEtk": {
+              "code": "JAUNDICE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_JAUNDICE",
+              "mappedId": "x2tH40if5uW",
+              "mappedName": "Acute Jaundice Syndrome",
+              "mapping": {}
+            },
+            "MmEjLgqRTgS": {
+              "code": "ACUTE_HAEMORRHAGIC_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ACUTE_HAEMORRHAGIC_SYNDROME",
+              "mappedId": "wPNaqXWRYzC",
+              "mappedName": "Acute Haemorrhagic Fever Syndrome",
+              "mapping": {}
+            },
+            "NxdXrHa08vs": {
+              "code": "NAEGLERIA_FOWLERI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NAEGLERIA_FOWLERI",
+              "mappedId": "gLCqB7xdGGz",
+              "mappedName": "Naegleria fowleri",
+              "mapping": {}
+            },
+            "OFZk6My2RIC": {
+              "code": "SPOROTHRIX_SCHENCKII",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SPOROTHRIX_SCHENCKII",
+              "mappedId": "GkL8V95CwzB",
+              "mappedName": "Sporothrix schenckii",
+              "mapping": {}
+            },
+            "OUF6bxi63yz": {
+              "code": "ECHINOCOCCUS_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ECHINOCOCCUS_SPP",
+              "mappedId": "oNNT1laLOmL",
+              "mappedName": "Echinococcus spp",
+              "mapping": {}
+            },
+            "OV8pekcQ4fp": {
+              "code": "ENTAMOEBA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ENTAMOEBA",
+              "mappedId": "kHRPK1sFNJn",
+              "mappedName": "Entamoeba spp",
+              "mapping": {}
+            },
+            "OYd5O0vE1TR": {
+              "code": "LOA_LOA_WORM",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_LOA_LOA_WORM",
+              "mappedId": "dgZ4AMoYjrd",
+              "mappedName": "Loa loa",
+              "mapping": {}
+            },
+            "OZAF5HFac8J": {
+              "code": "CORYNEBACTERIUM_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CORYNEBACTERIUM_SPP",
+              "mappedId": "skV9XHL3ITW",
+              "mappedName": "Corynebacterium spp",
+              "mapping": {}
+            },
+            "OlkqSqmkljD": {
+              "code": "HEPB_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HEPB_VIRUS",
+              "mappedId": "n8pfSJpXVCb",
+              "mappedName": "Hepatitis B virus",
+              "mapping": {}
+            },
+            "OsMxbfv6OLc": {
+              "code": "JAPANESE_ENCEPHALITIS_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_JAPANESE_ENCEPHALITIS_VIRUS",
+              "mappedId": "RUCM1u3uBqD",
+              "mappedName": "Japanese encephalitis virus",
+              "mapping": {}
+            },
+            "OsvPt6IPqCo": {
+              "code": "PESTICIDE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_PESTICIDE",
+              "mappedId": "aC5oyngbUiv",
+              "mappedName": "Pesticide",
+              "mapping": {}
+            },
+            "Owg0hclouzz": {
+              "code": "ACUTE_FEBRILE_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ACUTE_FEBRILE_SYNDROME",
+              "mappedId": "xrbUuH7Ogsh",
+              "mappedName": "Acute Febrile Illness Syndrome",
+              "mapping": {}
+            },
+            "OzY88f9oHY8": {
+              "code": "NUCLEAR_RADIOLOGICAL_INCIDENT",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NUCLEAR_RADIOLOGICAL_INCIDENT",
+              "mappedId": "UIE4ywTDDWO",
+              "mappedName": "Nuclear - Radiological Incident",
+              "mapping": {}
+            },
+            "P26p5TWT40Y": {
+              "code": "SARCOCYSTIS_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SARCOCYSTIS_SPP",
+              "mappedId": "kWSZu3LONHZ",
+              "mappedName": "Sarcocystis spp",
+              "mapping": {}
+            },
+            "PF6V8S5qI4i": {
+              "code": "VARICELLA_ZOSTER_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_VARICELLA_ZOSTER_VIRUS",
+              "mappedId": "rz82fc8pKVu",
+              "mappedName": "Varicella Zoster virus",
+              "mapping": {}
+            },
+            "PGTcDVveJAp": {
+              "code": "NATURAL_DISASTER",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NATURAL_DISASTER",
+              "mappedId": "kKCsoFAssj1",
+              "mappedName": "Natural Disaster",
+              "mapping": {}
+            },
+            "Q00ZbEjDIpM": {
+              "code": "THIAMINE_DEF",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_THIAMINE_DEF",
+              "mappedId": "K7AbatLaxEd",
+              "mappedName": "Thiamine deficiency",
+              "mapping": {}
+            },
+            "QRPIOjRixev": {
+              "code": "ROSEOLA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ROSEOLA",
+              "mappedId": "U6Ch9VXgdqX",
+              "mappedName": "Roseola",
+              "mapping": {}
+            },
+            "QVWye0KQVKn": {
+              "code": "ARSENIC",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ARSENIC",
+              "mappedId": "aWxVdJWCuDq",
+              "mappedName": "Arsenic",
+              "mapping": {}
+            },
+            "R2EM2rRxsjP": {
+              "code": "INFLUENZA_H7N9",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H7N9",
+              "mappedId": "MgoDYYXfop5",
+              "mappedName": "Influenza H7N9",
+              "mapping": {}
+            },
+            "R5c9CjX33at": {
+              "code": "PNEUMONIA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_PNEUMONIA",
+              "mappedId": "TBsRNrJCxCi",
+              "mappedName": "Pneumonia",
+              "mapping": {}
+            },
+            "RicjYOhqgSi": {
+              "code": "ACUTE_GASTROINTESTINAL_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ACUTE_GASTROINTESTINAL_SYNDROME",
+              "mappedId": "TsTCehHyb5g",
+              "mappedName": "Acute Gastrointestinal Syndrome",
+              "mapping": {}
+            },
+            "RnAMrrM4E1a": {
+              "code": "MEASLES_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MEASLES_VIRUS",
+              "mappedId": "KSMBJtzxRGC",
+              "mappedName": "Measles virus",
+              "mapping": {}
+            },
+            "S29dOoqtqBM": {
+              "code": "HEPD_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HEPD_VIRUS",
+              "mappedId": "t22bL0wgSyK",
+              "mappedName": "Hepatitis D virus",
+              "mapping": {}
+            },
+            "SFL2fa9JuLa": {
+              "code": "CRIMEAN_CONGO_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CRIMEAN_CONGO_VIRUS",
+              "mappedId": "opyJlmlQBR5",
+              "mappedName": "CCHF virus",
+              "mapping": {}
+            },
+            "SMW0SJE2PHb": {
+              "code": "METHYL_BROMIDE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_METHYL_BROMIDE",
+              "mappedId": "GEEz4oEd0x2",
+              "mappedName": "Methyl Bromide",
+              "mapping": {}
+            },
+            "Sd22n0L8z5i": {
+              "code": "BENZENE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BENZENE",
+              "mappedId": "gnu9so2eTOY",
+              "mappedName": "Benzene",
+              "mapping": {}
+            },
+            "SoT6ztMbe9Q": {
+              "code": "TOXOPLASMA_GONDII",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_TOXOPLASMA_GONDII",
+              "mappedId": "QFyxQMoAfDw",
+              "mappedName": "Toxoplasma gondii",
+              "mapping": {}
+            },
+            "T2WOVJInGaw": {
+              "code": "CORYNEBACTERIUM_DIPHTERIAE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CORYNEBACTERIUM_DIPHTERIAE",
+              "mappedId": "DoJUV4KSAyQ",
+              "mappedName": "Corynebacterium diphtheriae",
+              "mapping": {}
+            },
+            "TX3i0INlTil": {
+              "code": "MULTIDRUG_RESISTANT_TB",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MULTIDRUG_RESISTANT_TB",
+              "mappedId": "Bt81wYiMVyC",
+              "mappedName": "Multidrug-resistant TB",
+              "mapping": {}
+            },
+            "Tz2xkBuza0i": {
+              "code": "ONYONGNYONG_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ONYONGNYONG_VIRUS",
+              "mappedId": "RwvXYVFSM6I",
+              "mappedName": "O`nyong`nyong virus",
+              "mapping": {}
+            },
+            "TztuFcCretE": {
+              "code": "SARS_COV_2",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SARS_COV_2",
+              "mappedId": "ISDecaPHfTe",
+              "mappedName": "SARS-CoV-2",
+              "mapping": {}
+            },
+            "U6dYSCVJUyz": {
+              "code": "ARBOVIRAL_NON_ENDEMIC",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ARBOVIRAL_NON_ENDEMIC",
+              "mappedId": "d4qkP2qnaG7",
+              "mappedName": "Arboviral disease (non-endemic)",
+              "mapping": {}
+            },
+            "U9ll0K0O6AI": {
+              "code": "NOROVIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NOROVIRUS",
+              "mappedId": "RNkK3OcxPE7",
+              "mappedName": "Norovirus",
+              "mapping": {}
+            },
+            "UBAKJz4HWPL": {
+              "code": "MYCOBACTERIUM_SPP_NON_TB",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MYCOBACTERIUM_SPP_NON_TB",
+              "mappedId": "EOpFom6EmRe",
+              "mappedName": "Mycobacterium spp (Non-TB)",
+              "mapping": {}
+            },
+            "UMFGMy6Nz6w": {
+              "code": "ORIENTIA_TSUTSUGAMUSHI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ORIENTIA_TSUTSUGAMUSHI",
+              "mappedId": "T2ihaHEn6wk",
+              "mappedName": "Orientia tsutsugamushi",
+              "mapping": {}
+            },
+            "VQSnXWbHKya": {
+              "code": "BONGKREKIC_ACID",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BONGKREKIC_ACID",
+              "mappedId": "TV7udNsDVim",
+              "mappedName": "Bongkrekic Acid",
+              "mapping": {}
+            },
+            "Wenl8NSA6FA": {
+              "code": "STREPTOCOCCUS_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_STREPTOCOCCUS_SPP",
+              "mappedId": "JW2qMgEliYz",
+              "mappedName": "Streptococcus spp",
+              "mapping": {}
+            },
+            "WrIXMV7ANIF": {
+              "code": "AFP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_AFP",
+              "mappedId": "vNHHVX6a8Hp",
+              "mappedName": "Acute Flaccid Paralysis",
+              "mapping": {}
+            },
+            "X5GUnmZyxij": {
+              "code": "OTHER_EMERG_INFECTIOUS_DESEASE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_OTHER_EMERG_INFECTIOUS_DESEASE",
+              "mappedId": "Q6Nw5GcbHLV",
+              "mappedName": "Other Emerging Infectious Disease",
+              "mapping": {}
+            },
+            "XWXtF3Z4ISR": {
+              "code": "CYANIDE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CYANIDE",
+              "mappedId": "dKZ7jw8ewGi",
+              "mappedName": "Cyanide",
+              "mapping": {}
+            },
+            "XrsafCTkbJd": {
+              "code": "CYSTOISOSPORA_BELLI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CYSTOISOSPORA_BELLI",
+              "mappedId": "Fp5HN9Yoco8",
+              "mappedName": "Cystoisospora belli",
+              "mapping": {}
+            },
+            "YHbsUunU4qw": {
+              "code": "BRUCELLA_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BRUCELLA_SPP",
+              "mappedId": "LiyCNtTqosR",
+              "mappedName": "Brucella spp",
+              "mapping": {}
+            },
+            "YqSOKrfBil2": {
+              "code": "TRYPANOSOMA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_TRYPANOSOMA",
+              "mappedId": "OoqJJ0NNurx",
+              "mappedName": "Trypanosoma brucei",
+              "mapping": {}
+            },
+            "YsaVvlJkIl4": {
+              "code": "HERBICIDE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HERBICIDE",
+              "mappedId": "Y6pSI7SH7uA",
+              "mappedName": "Herbicide",
+              "mapping": {}
+            },
+            "Z4e7GfRfPxG": {
+              "code": "CHLORINE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CHLORINE",
+              "mappedId": "OeSN7XsynOs",
+              "mappedName": "Chlorine",
+              "mapping": {}
+            },
+            "Z56Smw78fLa": {
+              "code": "COCCIDIAN_PROTOZOA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_COCCIDIAN_PROTOZOA",
+              "mappedId": "nfhap4vMKP1",
+              "mappedName": "Coccidian protozoa",
+              "mapping": {}
+            },
+            "Z8wXVHk7coe": {
+              "code": "INFLUENZA_H5N3",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H5N3",
+              "mappedId": "XAtf4gB58oD",
+              "mappedName": "Influenza H5N3",
+              "mapping": {}
+            },
+            "ZEb2d0lKb4g": {
+              "code": "CRYPTOCOCCUS_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CRYPTOCOCCUS_SPP",
+              "mappedId": "hv7J8yM66JT",
+              "mappedName": "Cryptococcus spp",
+              "mapping": {}
+            },
+            "ZiGNU3koyZ6": {
+              "global": false
+            },
+            "ZkhjVwxkWv1": {
+              "code": "AMMONIA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_AMMONIA",
+              "mappedId": "NxJOFgvEZyk",
+              "mappedName": "Ammonia",
+              "mapping": {}
+            },
+            "ZvBcbH7vPS9": {
+              "code": "COWPOX_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_COWPOX_VIRUS",
+              "mappedId": "Zffz5QiS8bi",
+              "mappedName": "Cowpox virus",
+              "mapping": {}
+            },
+            "aIvxcSWOopm": {
+              "code": "BREVETOXIN",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BREVETOXIN",
+              "mappedId": "sx8JYjjLuPE",
+              "mappedName": "Brevetoxin",
+              "mapping": {}
+            },
+            "awgFhWZx0RT": {
+              "code": "HAEMOPHILUS_INFLUENZAE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HAEMOPHILUS_INFLUENZAE",
+              "mappedId": "pqpqmzyaajf",
+              "mappedName": "Haemophilus influenzae",
+              "mapping": {}
+            },
+            "bVB7Mv605fr": {
+              "code": "RABIES_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_RABIES_VIRUS",
+              "mappedId": "bZTGWsrPn7P",
+              "mappedName": "Rabies virus",
+              "mapping": {}
+            },
+            "brxglsBWFO8": {
+              "code": "PLASMODIUM_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_PLASMODIUM_SPP",
+              "mappedId": "qprtdoRCL0g",
+              "mappedName": "Plasmodium spp",
+              "mapping": {}
+            },
+            "cD6RZfjtZmm": {
+              "code": "SALMONELLA_TYPHI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SALMONELLA_TYPHI",
+              "mappedId": "oGthFDMOVAI",
+              "mappedName": "Salmonella typhi",
+              "mapping": {}
+            },
+            "cKJZalwEtEh": {
+              "code": "CLOSTRIDIUM_DIFFICILE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CLOSTRIDIUM_DIFFICILE",
+              "mappedId": "j9qdTn8z7Qm",
+              "mappedName": "Clostridium difficile",
+              "mapping": {}
+            },
+            "d7vatbXFh1J": {
+              "code": "RTA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_RTA",
+              "mappedId": "KbCmmd51VCV",
+              "mappedName": "Road traffic Accidents",
+              "mapping": {}
+            },
+            "dQ7jxAli8Vl": {
+              "code": "FILARIASIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_FILARIASIS",
+              "mappedId": "RlaXQInmSDb",
+              "mappedName": "Filariodidea worms",
+              "mapping": {}
+            },
+            "e0Vgv12ELA8": {
+              "code": "CHLAMYDIA_TRACHOMATIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CHLAMYDIA_TRACHOMATIS",
+              "mappedId": "PLvo90mDWDd",
+              "mappedName": "Chlamydia trachomatis",
+              "mapping": {}
+            },
+            "eD33vA5nBcU": {
+              "code": "MERCURY",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MERCURY",
+              "mappedId": "SHwrNRBjXwR",
+              "mappedName": "Mercury poisoning",
+              "mapping": {}
+            },
+            "eUhNUCN2imw": {
+              "code": "NOSOCOMIAL",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_NOSOCOMIAL",
+              "mappedId": "zuTmZ8zghJ4",
+              "mappedName": "Nosocomial/MDR",
+              "mapping": {}
+            },
+            "ee9SMWuHAyh": {
+              "code": "INFLUENZA_H5N2",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H5N2",
+              "mappedId": "J1VMFto6YPn",
+              "mappedName": "Influenza H5N2",
+              "mapping": {}
+            },
+            "ekWMOHEgcNE": {
+              "code": "HEPC_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HEPC_VIRUS",
+              "mappedId": "T506BywaBzu",
+              "mappedName": "Hepatitis C virus",
+              "mapping": {}
+            },
+            "embL8iPf4hb": {
+              "code": "VO123_VOLCANO_ERUPTION",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_VO123_VOLCANO_ERUPTION",
+              "mappedId": "npqIHMp5oit",
+              "mappedName": "Volcano Eruption",
+              "mapping": {}
+            },
+            "eyMD5KRHUbC": {
+              "code": "GUILLAIN_BARRE_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_GUILLAIN_BARRE_SYNDROME",
+              "mappedId": "mkSgZO7aEuk",
+              "mappedName": "Guillain Barré Syndrome",
+              "mapping": {}
+            },
+            "f91f5bzs38A": {
+              "code": "YERSINIA_PSEUDOTUBERCULOSIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_YERSINIA_PSEUDOTUBERCULOSIS",
+              "mappedId": "XhAHcxlWWh1",
+              "mappedName": "Yersinia pseudotuberculosis",
+              "mapping": {}
+            },
+            "f9hrXNgS6oq": {
+              "code": "POLIO_VIRUS_CVDPV2",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_POLIO_VIRUS_CVDPV2",
+              "mappedId": "lAfcM7qNdQW",
+              "mappedName": "Polio virus (vaccine-derived)",
+              "mapping": {}
+            },
+            "fQxdTWgeC4r": {
+              "code": "MYCOBACTERIUM_LEPRAE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MYCOBACTERIUM_LEPRAE",
+              "mappedId": "Fb5LIsRENZ0",
+              "mappedName": "Mycobacterium leprae",
+              "mapping": {}
+            },
+            "fYL8u1VV7KF": {
+              "code": "INFLUENZA_H1N2",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H1N2",
+              "mappedId": "Pt3lSXtQgS7",
+              "mappedName": "Influenza H1N2",
+              "mapping": {}
+            },
+            "farIZy7gZuC": {
+              "code": "SINDBIS_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SINDBIS_VIRUS",
+              "mappedId": "Orat6xr041o",
+              "mappedName": "Sindbis virus",
+              "mapping": {}
+            },
+            "fz5iaRfRd5G": {
+              "code": "HEPA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HEPA_VIRUS",
+              "mappedId": "t7IeViwTxDF",
+              "mappedName": "Hepatitis A virus",
+              "mapping": {}
+            },
+            "gCKoN0y5R9V": {
+              "code": "PARVOVIRUS_B19",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_PARVOVIRUS_B19",
+              "mappedId": "BoMBxPXon3O",
+              "mappedName": "Parvovirus B19",
+              "mapping": {}
+            },
+            "gbdmogEAJQN": {
+              "code": "ADENOVIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ADENOVIRUS",
+              "mappedId": "GkV0rnDhWFB",
+              "mappedName": "Adenovirus",
+              "mapping": {}
+            },
+            "gyUWprZ5gV1": {
+              "code": "CANDIDA_AURIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CANDIDA_AURIS",
+              "mappedId": "w91TMWyhAWc",
+              "mappedName": "Candida spp",
+              "mapping": {}
+            },
+            "hhcArfbRiQ4": {
+              "code": "PFIESTERIA_PISCICIDA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_PFIESTERIA_PISCICIDA",
+              "mappedId": "zCQcPImIPyh",
+              "mappedName": "Pfiesteria piscicida",
+              "mapping": {}
+            },
+            "hkiJ34RXqNm": {
+              "code": "SEVERE_WEATHER",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SEVERE_WEATHER",
+              "mappedId": "IQNvkwayDFp",
+              "mappedName": "Severe weather",
+              "mapping": {}
+            },
+            "hnCbPeoiD3B": {
+              "code": "LEAD",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_LEAD",
+              "mappedId": "OVo91qrSzzC",
+              "mappedName": "Lead poisoning",
+              "mapping": {}
+            },
+            "hqrgOOsMJGU": {
+              "code": "CARBON_MONOXIDE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CARBON_MONOXIDE",
+              "mappedId": "bbwucO3n2jV",
+              "mappedName": "Carbon Monoxide",
+              "mapping": {}
+            },
+            "hznWURl9KAx": {
+              "code": "EBOLA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_EBOLA_VIRUS",
+              "mappedId": "euyJHBNNgD0",
+              "mappedName": "Ebola virus",
+              "mapping": {}
+            },
+            "i1yIvZYNpRO": {
+              "code": "CRYPTOSPORIDIUM_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CRYPTOSPORIDIUM_SPP",
+              "mappedId": "OqIvT6qzPAv",
+              "mappedName": "Cryptosporidium spp",
+              "mapping": {}
+            },
+            "i3aAMYode2t": {
+              "code": "INFLUENZA_H6N1",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H6N1",
+              "mappedId": "lbYJnzQAmtc",
+              "mappedName": "Influenza H6N1",
+              "mapping": {}
+            },
+            "iXBcCtV5KVv": {
+              "code": "UNKNOWN_FOOD_BORNE_DISEASE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_UNKNOWN_FOOD_BORNE_DISEASE",
+              "mappedId": "PrNH50cAJ1W",
+              "mappedName": "Food-borne disease",
+              "mapping": {}
+            },
+            "ivKOFDqExBg": {
+              "code": "COXSACKIE_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_COXSACKIE_VIRUS",
+              "mappedId": "n5hTOojGlLj",
+              "mappedName": "Coxsackie virus",
+              "mapping": {}
+            },
+            "izLAA2lvxUP": {
+              "code": "APLASTIC_ANAEMIA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_APLASTIC_ANAEMIA",
+              "mappedId": "KuheCIFTYiL",
+              "mappedName": "Aplastic Anaemia",
+              "mapping": {}
+            },
+            "j0GT5W5LV01": {
+              "code": "VARIOLA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_VARIOLA_VIRUS",
+              "mappedId": "lsbUjI3UK00",
+              "mappedName": "Variola virus",
+              "mapping": {}
+            },
+            "j3KUsxYn9rY": {
+              "code": "DENGUE_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_DENGUE_VIRUS",
+              "mappedId": "wFYOFmwYnSJ",
+              "mappedName": "Dengue virus",
+              "mapping": {}
+            },
+            "jAdzlk9GwH6": {
+              "code": "RUBELLA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_RUBELLA_VIRUS",
+              "mappedId": "ONqRdb5kif0",
+              "mappedName": "Rubella virus",
+              "mapping": {}
+            },
+            "jM86L5diTIC": {
+              "code": "METHICILLIN_RESISTANT_STAPH_AUREUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_METHICILLIN_RESISTANT_STAPH_AUREUS",
+              "mappedId": "DRAu4LpFV7Y",
+              "mappedName": "Methicillin Resistant Staphylococcus aureus",
+              "mapping": {}
+            },
+            "joihVJBJGz1": {
+              "code": "INFLUENZA_H1N1",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H1N1",
+              "mappedId": "Uvv4d7YTJAY",
+              "mappedName": "Influenza H1N1",
+              "mapping": {}
+            },
+            "kArvo6Ywk4G": {
+              "code": "METHANOL_POISONING",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_METHANOL_POISONING",
+              "mappedId": "L7wKHP2nojO",
+              "mappedName": "Methanol poisoning",
+              "mapping": {}
+            },
+            "kJtROtzjo6A": {
+              "code": "VACCINIA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_VACCINIA_VIRUS",
+              "mappedId": "Czkt05IK10P",
+              "mappedName": "Vaccinia virus",
+              "mapping": {}
+            },
+            "kLufBqeBhON": {
+              "code": "TREPONEMA_PALLIDUM",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_TREPONEMA_PALLIDUM",
+              "mappedId": "CEMrv51F7Zs",
+              "mappedName": "Treponema pallidum",
+              "mapping": {}
+            },
+            "keEBOiquD7f": {
+              "code": "TAENIA_SOLIUM",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_TAENIA_SOLIUM",
+              "mappedId": "WniIlCFZjse",
+              "mappedName": "Taenia solium",
+              "mapping": {}
+            },
+            "kwF2GPszknf": {
+              "code": "COXIELLA_BURNETII",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_COXIELLA_BURNETII",
+              "mappedId": "pCAXqgObMsB",
+              "mappedName": "Coxiella burnetii",
+              "mapping": {}
+            },
+            "lfUj6p4SEJU": {
+              "code": "AEFI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_AEFI",
+              "mappedId": "B3xOXSB95fx",
+              "mappedName": "AEFI",
+              "mapping": {}
+            },
+            "lpvKnQOAM38": {
+              "code": "ESCHERICHIA_COLI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ESCHERICHIA_COLI",
+              "mappedId": "qbqYG45r8XY",
+              "mappedName": "Escherichia coli",
+              "mapping": {}
+            },
+            "mZ9foxdvH2P": {
+              "code": "DIETHYLENE_ETHYLENE_GLYCOL",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_DIETHYLENE_ETHYLENE_GLYCOL",
+              "mappedId": "tknolPcKpLD",
+              "mappedName": "Diethylene/Ethylene Glycol",
+              "mapping": {}
+            },
+            "mf5bnIgInMv": {
+              "code": "INFLUENZA_H9N2",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H9N2",
+              "mappedId": "XGuglQAQlSJ",
+              "mappedName": "Influenza H9N2",
+              "mapping": {}
+            },
+            "myAQThRv1WO": {
+              "code": "ENTEROVIRUS_ST_68_71",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ENTEROVIRUS_ST_68_71",
+              "mappedId": "JD7W2YsrAFx",
+              "mappedName": "Enterovirus serotypes 68-71",
+              "mapping": {}
+            },
+            "nIuYIMaIs2S": {
+              "code": "VIBRIO_PARAHAEMOLYTICUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_VIBRIO_PARAHAEMOLYTICUS",
+              "mappedId": "ULta2Hc1CHt",
+              "mappedName": "Vibrio parahaemolyticus",
+              "mapping": {}
+            },
+            "nOsDpsDUSKZ": {
+              "code": "ONCHOCERCA_VOLVULUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ONCHOCERCA_VOLVULUS",
+              "mappedId": "jAJdJ7kETzK",
+              "mappedName": "Onchocerca volvulus",
+              "mapping": {}
+            },
+            "ogf6ndnk047": {
+              "code": "SHIGELLA_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SHIGELLA_SPP",
+              "mappedId": "vlJtK5HpFV7",
+              "mappedName": "Shigella spp",
+              "mapping": {}
+            },
+            "pQt5oHSh4y1": {
+              "code": "DESERT_LOCUSTS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_DESERT_LOCUSTS",
+              "mappedId": "a1mHMRmMy7U",
+              "mappedName": "Desert Locusts",
+              "mapping": {}
+            },
+            "pSP91WXlI7U": {
+              "code": "ACUTE_FEVER_AND_RASH_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ACUTE_FEVER_AND_RASH_SYNDROME",
+              "mappedId": "LWMoKx1ptQt",
+              "mappedName": "Acute Fever and Rash Syndrome",
+              "mapping": {}
+            },
+            "pcNcbnsYE2U": {
+              "code": "STAPHYLOCOCCUS_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_STAPHYLOCOCCUS_SPP",
+              "mappedId": "jCF6SrXJdAy",
+              "mappedName": "Staphylococcus spp",
+              "mapping": {}
+            },
+            "pfhWogEpbur": {
+              "code": "OTHER",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_OTHER",
+              "mappedId": "qSYjdz1lQXt",
+              "mappedName": "Other",
+              "mapping": {}
+            },
+            "pfrfwJVVKSW": {
+              "code": "GIARDIA_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_GIARDIA_SPP",
+              "mappedId": "E70iZfP3nsF",
+              "mappedName": "Giardia spp",
+              "mapping": {}
+            },
+            "phUVtE9TGmL": {
+              "code": "BUFFALOPOX_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BUFFALOPOX_VIRUS",
+              "mappedId": "Ib9wM53P7yG",
+              "mappedName": "Buffalopox virus",
+              "mapping": {}
+            },
+            "pwQ9PRgkgdF": {
+              "code": "BORRELIA_BURGDORFERI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BORRELIA_BURGDORFERI",
+              "mappedId": "gPlAb1U0wZz",
+              "mappedName": "Borrelia spp",
+              "mapping": {}
+            },
+            "q6m8o9uMN8F": {
+              "code": "VIBRIO_VULNIFICUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_VIBRIO_VULNIFICUS",
+              "mappedId": "AXBkBf2DoYq",
+              "mappedName": "Vibrio vulnificus",
+              "mapping": {}
+            },
+            "qQTpahA3T28": {
+              "code": "CHIKUNGUNYA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_CHIKUNGUNYA_VIRUS",
+              "mappedId": "P4oeFAtYtWh",
+              "mappedName": "Chikungunya virus",
+              "mapping": {}
+            },
+            "qbJSioyieCq": {
+              "code": "ZIKA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ZIKA_VIRUS",
+              "mappedId": "g3MlMveJA3g",
+              "mappedName": "Zika virus",
+              "mapping": {}
+            },
+            "quC0NgqLhcv": {
+              "code": "MONKEYPOX_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MONKEYPOX_VIRUS",
+              "mappedId": "uZEpMj26Pvz",
+              "mappedName": "Monkeypox virus",
+              "mapping": {}
+            },
+            "quLJAvfxT5f": {
+              "code": "LISTERIA_MONOCYTOGENES",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_LISTERIA_MONOCYTOGENES",
+              "mappedId": "fkT2gl3iKTf",
+              "mappedName": "Listeria monocytogenes",
+              "mapping": {}
+            },
+            "rKYcrFswzKm": {
+              "code": "POLIO_VIRUS_WILD",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_POLIO_VIRUS_WILD",
+              "mappedId": "zq7i2SZ7NGO",
+              "mappedName": "Polio virus (wild-type)",
+              "mapping": {}
+            },
+            "rjDI8EHOeEE": {
+              "code": "RICKETTSIA_PROWAZEKII",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_RICKETTSIA_PROWAZEKII",
+              "mappedId": "T7bl6d84OIh",
+              "mappedName": "Rickettsia Prowazekii",
+              "mapping": {}
+            },
+            "sE4tbK3nLZD": {
+              "code": "EHRLICHIA_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_EHRLICHIA_SPP",
+              "mappedId": "DHJeOUoxZnn",
+              "mappedName": "Ehrlichia spp",
+              "mapping": {}
+            },
+            "sL3ZtqbVrlS": {
+              "code": "EPSTEIN_BARR_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_EPSTEIN_BARR_VIRUS",
+              "mappedId": "FhkzOBFW3sq",
+              "mappedName": "Gammaherpesviral mononucleosis",
+              "mapping": {}
+            },
+            "sadpvP1EYev": {
+              "code": "BABESIA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BABESIA",
+              "mappedId": "MCpcQC1SwjX",
+              "mappedName": "Babesia spp",
+              "mapping": {}
+            },
+            "skO9kyko0aF": {
+              "code": "BURKHOLDERIA_PSEUDOMALLEI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BURKHOLDERIA_PSEUDOMALLEI",
+              "mappedId": "xVAASFM4vno",
+              "mappedName": "Burkholderia pseudomallei",
+              "mapping": {}
+            },
+            "sogUfYYKvYA": {
+              "code": "VIBRIO_CHOLERAE",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_VIBRIO_CHOLERAE",
+              "mappedId": "x47aakRcRjy",
+              "mappedName": "Vibrio cholerae",
+              "mapping": {}
+            },
+            "tEjrHu3TTWV": {
+              "global": false
+            },
+            "tXo3QJWW1zx": {
+              "code": "TRICHINELLA_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_TRICHINELLA_SPP",
+              "mappedId": "wIp3N1HJ9kE",
+              "mappedName": "Trichinella spp",
+              "mapping": {}
+            },
+            "taaMahzRFas": {
+              "code": "ACUTE_DIARRHOEAL_SYNDROME",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ACUTE_DIARRHOEAL_SYNDROME",
+              "mappedId": "xWmSJzJD7rK",
+              "mappedName": "Acute Diarrhoeal Syndrome",
+              "mapping": {}
+            },
+            "tiRzaylMg79": {
+              "code": "ECHOVIRUSES",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_ECHOVIRUSES",
+              "mappedId": "OqSC7cQqNIy",
+              "mappedName": "Echoviruses",
+              "mapping": {}
+            },
+            "trG0dlzPZft": {
+              "code": "BORDETELLA_PERTUSSIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BORDETELLA_PERTUSSIS",
+              "mappedId": "nrhnZwbShy2",
+              "mappedName": "Bordetella pertussis",
+              "mapping": {}
+            },
+            "tslawTX1hhL": {
+              "code": "MACACINE_ALPHAHERPESVIRUS_1",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MACACINE_ALPHAHERPESVIRUS_1",
+              "mappedId": "NQTLB9cpdFk",
+              "mappedName": "Macacine alphaherpesvirus 1",
+              "mapping": {}
+            },
+            "tuz0kWO0OD2": {
+              "code": "INFLUENZA_H2N2",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H2N2",
+              "mappedId": "Hf5EtbrwUqe",
+              "mappedName": "Influenza H2N2",
+              "mapping": {}
+            },
+            "twtmG69dlfX": {
+              "code": "INFLUENZA_H5N8",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H5N8",
+              "mappedId": "ymK1b20QFyn",
+              "mappedName": "Influenza H5N8",
+              "mapping": {}
+            },
+            "u4A12oycUVl": {
+              "code": "SALMONELLA_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_SALMONELLA_SPP",
+              "mappedId": "QphLhDcRx8P",
+              "mappedName": "Salmonella spp",
+              "mapping": {}
+            },
+            "u7gwLUvNYpb": {
+              "code": "INFLUENZA_H3N2",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H3N2",
+              "mappedId": "APCR3cKzXaY",
+              "mappedName": "Influenza H3N2",
+              "mapping": {}
+            },
+            "uAU4HJNKrfR": {
+              "code": "MARBURG_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MARBURG_VIRUS",
+              "mappedId": "cnVyJCmSrtP",
+              "mappedName": "Marburg virus",
+              "mapping": {}
+            },
+            "uYzcntrV5dY": {
+              "code": "YERSINIA_PESTIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_YERSINIA_PESTIS",
+              "mappedId": "rXfUJEALHF7",
+              "mappedName": "Yersinia pestis",
+              "mapping": {}
+            },
+            "uepgtc2OMum": {
+              "code": "MENINGITIS_VIRAL",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MENINGITIS_VIRAL",
+              "mappedId": "O2RKlCr5H4e",
+              "mappedName": "Meningitis (Viral)",
+              "mapping": {}
+            },
+            "ug2cFIjOkGw": {
+              "code": "HEPE_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HEPE_VIRUS",
+              "mappedId": "ImxVOZa9Tqe",
+              "mappedName": "Hepatitis E virus",
+              "mapping": {}
+            },
+            "vCbUJorRewY": {
+              "code": "BURKHOLDERIA_MALLEI",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_BURKHOLDERIA_MALLEI",
+              "mappedId": "m0D97StyGXt",
+              "mappedName": "Burkholderia mallei",
+              "mapping": {}
+            },
+            "vO3sqNUVqXX": {
+              "code": "YELLOW_FEVER_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_YELLOW_FEVER_VIRUS",
+              "mappedId": "MqSNXxFfdq4",
+              "mappedName": "Yellow fever virus",
+              "mapping": {}
+            },
+            "vSWfCSals1w": {
+              "code": "UNKNOWN_AGENT",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_UNKNOWN_AGENT",
+              "mappedId": "BcwHvYvpbhz",
+              "mappedName": "Unknown agent",
+              "mapping": {}
+            },
+            "vgDqArInajB": {
+              "code": "STREPTOCOCCUS_SUIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_STREPTOCOCCUS_SUIS",
+              "mappedId": "veffiB7Dsn7",
+              "mappedName": "Streptococcus suis",
+              "mapping": {}
+            },
+            "vjSxEVTXKIj": {
+              "code": "DRACUNCULUS_MEDINENSIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_DRACUNCULUS_MEDINENSIS",
+              "mappedId": "r6VhZ1Gb9sZ",
+              "mappedName": "Dracunculus medinensis",
+              "mapping": {}
+            },
+            "wA5c28oIklA": {
+              "code": "INFLUENZA_H5",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H5",
+              "mappedId": "nrumu8dhuJZ",
+              "mappedName": "Influenza H5",
+              "mapping": {}
+            },
+            "wGKjQ69vv3I": {
+              "code": "THALLIUM",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_THALLIUM",
+              "mappedId": "PPodk23SUzP",
+              "mappedName": "Thallium",
+              "mapping": {}
+            },
+            "wMYVC2oY5yL": {
+              "code": "RESPIRATORY_SYNCYTIAL_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_RESPIRATORY_SYNCYTIAL_VIRUS",
+              "mappedId": "QjyQGTNEn9M",
+              "mappedName": "Respiratory Syncytial Virus",
+              "mapping": {}
+            },
+            "x6GTdhLRX2B": {
+              "code": "MYCOBACTERIUM_ULCERANS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MYCOBACTERIUM_ULCERANS",
+              "mappedId": "Q591Tijc2cp",
+              "mappedName": "Mycobacterium ulcerans",
+              "mapping": {}
+            },
+            "x8XUxwCpWG3": {
+              "code": "HUMAN_METAPNEUMOVIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HUMAN_METAPNEUMOVIRUS",
+              "mappedId": "f5iDiWVDqwA",
+              "mappedName": "Human Metapneumovirus",
+              "mapping": {}
+            },
+            "xSPWDYC3QoD": {
+              "code": "INFLUENZA_VIRUS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_VIRUS",
+              "mappedId": "gFLSkbvVEPb",
+              "mappedName": "Influenza virus",
+              "mapping": {}
+            },
+            "xT5JZifjRJr": {
+              "code": "INFLUENZA_H5N6",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H5N6",
+              "mappedId": "wWc3LU0kHnY",
+              "mappedName": "Influenza H5N6",
+              "mapping": {}
+            },
+            "xwe9IebVmo4": {
+              "code": "TRICHOMONAS_VAGINALIS",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_TRICHOMONAS_VAGINALIS",
+              "mappedId": "fX6rhsVezBM",
+              "mappedName": "Trichomonas vaginalis",
+              "mapping": {}
+            },
+            "y8W7cyS8Hjs": {
+              "code": "HISTOPLASMA_CAPSULATUM",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_HISTOPLASMA_CAPSULATUM",
+              "mappedId": "tK3UyoJCR3Y",
+              "mappedName": "Histoplasma capsulatum",
+              "mapping": {}
+            },
+            "yGPVfdqbNX9": {
+              "code": "FASCIOLA_HEPATICA",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_FASCIOLA_HEPATICA",
+              "mappedId": "pKs3T2l9VI7",
+              "mappedName": "Fasciola spp",
+              "mapping": {}
+            },
+            "yYDdG2DQ43g": {
+              "code": "MYCOBACTERIUM_TB",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_MYCOBACTERIUM_TB",
+              "mappedId": "k51adYpXjjG",
+              "mappedName": "Mycobacterium tuberculosis",
+              "mapping": {}
+            },
+            "ze04QcCXcH1": {
+              "code": "PARAGONIMUS_SPP",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_PARAGONIMUS_SPP",
+              "mappedId": "nA3l3HRSbi4",
+              "mappedName": "Paragonimus spp",
+              "mapping": {}
+            },
+            "zh53AFYrIgB": {
+              "code": "INFLUENZA_H5N1",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "AGENTS_INFLUENZA_H5N1",
+              "mappedId": "kDtVNtywv1P",
+              "mappedName": "Influenza H5N1",
+              "mapping": {}
+            }
+          }
+        }
+      },
+      "vW5Eb1RB6ml": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEB_TEA_DATE_EMERGED",
+        "mappedId": "PlAQX9j3tBD",
+        "mappedName": "Date Emerged ",
+        "mapping": {}
+      }
+    },
+    "trackerProgramStages": {
+      "JRuLW57woOB-mRDg7F9tAZH": {
+        "code": "PS_DAILY_WEEKLY_UPDATE",
+        "conflicts": false,
+        "global": false,
+        "mappedId": "BTmMxEEl1Xs",
+        "mappedName": "Daily/Weekly Updates",
+        "mapping": {}
+      },
+      "xDsAFnQMmeU-IVsPtKIxhxH": {
+        "conflicts": false,
+        "global": false,
+        "mappedId": "BTmMxEEl1Xs",
+        "mappedName": "Daily/Weekly Updates",
+        "mapping": {}
+      }
+    },
+    "trackerPrograms": {
+      "JRuLW57woOB": {
+        "code": "TP_EMS-EBS",
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEBRA_ALERTS",
+        "mappedId": "MQtbs8UkBxy",
+        "mappedName": "RTSL_ZEBRA_ALERTS",
+        "mapping": {
+          "categoryCombos": {
+            "bjDvmb4bfuf": {
+              "conflicts": false,
+              "mappedId": "bjDvmb4bfuf",
+              "mappedName": "default",
+              "mapping": {}
+            }
+          },
+          "categoryOptions": {
+            "GLevLNI9wkl-xYerKDKCefk": {
+              "code": "default",
+              "conflicts": false,
+              "global": false,
+              "mappedCode": "default",
+              "mappedId": "xYerKDKCefk",
+              "mappedName": "default"
+            }
+          }
+        }
+      },
+      "xDsAFnQMmeU": {
+        "conflicts": false,
+        "global": false,
+        "mappedCode": "RTSL_ZEBRA_ALERTS",
+        "mappedId": "MQtbs8UkBxy",
+        "mappedName": "RTSL_ZEBRA_ALERTS",
+        "mapping": {
+          "categoryCombos": {
+            "bjDvmb4bfuf": {
+              "conflicts": false,
+              "mappedCode": "default",
+              "mappedId": "bjDvmb4bfuf",
+              "mappedName": "default",
+              "mapping": {}
+            }
+          },
+          "categoryOptions": {
+            "GLevLNI9wkl-xYerKDKCefk": {
+              "code": "default",
+              "conflicts": false,
+              "global": false,
+              "mappedId": "xYerKDKCefk",
+              "mapping": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
