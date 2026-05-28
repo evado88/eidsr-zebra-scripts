@@ -4,6 +4,7 @@ import json
 import copy
 import sys
 import argparse
+import calendar
 from datetime import datetime, timedelta
 from dhis2 import Api, RequestException
 
@@ -143,17 +144,24 @@ def run_sync(period="yesterday", date=None):
         
     # Date Calculation
     if period == "today":
-        start_date = now.strftime('%Y-%m-%d')
+        ref = now.date()
     elif period == "yesterday":
-        start_date = (now - timedelta(days=1)).strftime('%Y-%m-%d')
+        ref = (now - timedelta(days=1)).date()
     elif period == "this_week":
-        start_date = (now - timedelta(days=now.weekday())).strftime('%Y-%m-%d')
+        ref = (now - timedelta(days=now.weekday())).date()
     elif period == "custom":
-        start_date = date
+        ref = datetime.strptime(date, "%Y-%m-%d").date()
     else:
-        start_date = "1900-01-01"
+        ref = None
 
-    print(f"\n--- SYNC PROCESS (Sync Period: {period}, Sync Date: {start_date}, Run Date: {now.strftime('%d %B %Y %H:%M')}) ---")
+    if ref:
+        start_date = ref.replace(day=1).strftime("%Y-%m-%d")
+        end_date = ref.replace(day=calendar.monthrange(ref.year, ref.month)[1]).strftime("%Y-%m-%d")
+        month_label = ref.strftime("%Y-%m")
+    else:
+        start_date, end_date, month_label = "1900-01-01", None, "all_time"
+
+    print(f"\n--- SYNC PROCESS (Sync Period: {period}, Month: {month_label}, Run Date: {now.strftime('%d %B %Y %H:%M')}) ---")
 
     with open(MAPPING_FILE, 'r') as f:
         mappings = json.load(f)["mappingDictionary"]
@@ -170,7 +178,10 @@ def run_sync(period="yesterday", date=None):
 
     for prog_id in source_programs:
         print(f"\nProcessing Program: {prog_id}")
-        instances = get_all_enrollments(eidsr_api, {'program': prog_id, 'ouMode': 'ALL', 'enrolledAfter': start_date})
+        enr_params = {'program': prog_id, 'ouMode': 'ALL', 'enrolledAfter': start_date}
+        if end_date:
+            enr_params['enrolledBefore'] = end_date
+        instances = get_all_enrollments(eidsr_api, enr_params)
         target_prog_id = mappings["trackerPrograms"][prog_id]["mappedId"]
 
         # Verbose Grouping Collections
