@@ -6,8 +6,8 @@ from dhis2 import Api, RequestException
 
 CONFIG_DIR = "./config"
 ZEBRA_AUTH = os.path.join(CONFIG_DIR, "zebra_auth.json")
-VERIFICATION_STATUS_LABEL = "Verification Status"
-VERIFIED_DISPLAY_VALUE = "Verified"
+VERIFICATION_STATUS = "HvgldgBK8Th"
+VERIFIED_CODE = "RTSL_ZEB_AL_OS_VERIFICATION_VERIFIED"
 
 
 def check_auth(api, name):
@@ -40,32 +40,6 @@ def get_tei(api, tei_id):
         print(f"ERROR: Could not fetch TEI {tei_id} (code {e.code}).")
         return None
 
-
-def get_verification_attr(api, program_id):
-    """Return (attr_id, option_lookup) for the Verification Status attribute."""
-    try:
-        resp = api.get(
-            f"programs/{program_id}",
-            params={
-                "fields": "programTrackedEntityAttributes["
-                          "trackedEntityAttribute["
-                          "id,displayName,optionSet[options[code,displayName]]"
-                          "]]"
-            },
-        ).json()
-        for ptea in resp.get("programTrackedEntityAttributes", []):
-            tea = ptea["trackedEntityAttribute"]
-            if tea["displayName"] == VERIFICATION_STATUS_LABEL:
-                option_lookup = {}
-                if tea.get("optionSet"):
-                    option_lookup = {
-                        opt["code"]: opt["displayName"]
-                        for opt in tea["optionSet"].get("options", [])
-                    }
-                return tea["id"], option_lookup
-    except RequestException as e:
-        print(f"WARNING: Could not fetch program attributes (code {e.code}).")
-    return None, {}
 
 
 def cancel_enrollment(api, enrollment):
@@ -113,7 +87,6 @@ def run(enrollment_id):
         print(f"Enrollment '{enrollment_id}' is already CANCELLED. Nothing to do.")
         sys.exit(0)
 
-    program_id = enrollment.get("program")
     tei_id = enrollment.get("trackedEntity")
 
     print(f"Fetching TEI '{tei_id}' to read attributes...")
@@ -121,32 +94,22 @@ def run(enrollment_id):
     if not tei:
         sys.exit(1)
 
-    print(f"Looking up '{VERIFICATION_STATUS_LABEL}' attribute for program '{program_id}'...")
-    attr_id, option_lookup = get_verification_attr(api, program_id)
-    if not attr_id:
-        print(
-            f"ERROR: '{VERIFICATION_STATUS_LABEL}' attribute not found in program '{program_id}'. "
-            "Aborting for safety."
-        )
-        sys.exit(1)
-
     raw_value = next(
-        (a.get("value") for a in tei.get("attributes", []) if a["attribute"] == attr_id),
+        (a.get("value") for a in tei.get("attributes", []) if a["attribute"] == VERIFICATION_STATUS),
         None,
     )
-    display_value = option_lookup.get(raw_value, raw_value) if raw_value is not None else None
 
-    print(f"'{VERIFICATION_STATUS_LABEL}' = '{display_value}' (raw code: '{raw_value}')")
+    print(f"Verification Status code = '{raw_value}'")
 
-    if display_value == VERIFIED_DISPLAY_VALUE:
+    if raw_value == VERIFIED_CODE:
         print(
-            f"\nWARNING: Enrollment '{enrollment_id}' has Verification Status = '{VERIFIED_DISPLAY_VALUE}'."
+            f"\nWARNING: Enrollment '{enrollment_id}' has Verification Status = '{VERIFIED_CODE}'."
         )
         print("This enrollment is already verified and will NOT be cancelled.")
         sys.exit(0)
 
     print(
-        f"\nVerification Status is '{display_value}' (not '{VERIFIED_DISPLAY_VALUE}'). "
+        f"\nVerification Status is '{raw_value}' (not '{VERIFIED_CODE}'). "
         "Proceeding to cancel..."
     )
     cancel_enrollment(api, enrollment)

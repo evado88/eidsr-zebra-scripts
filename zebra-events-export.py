@@ -17,7 +17,8 @@ ZEBRA_AUTH = os.path.join(CONFIG_DIR, "zebra_auth.json")
 # ZEBRA program ID — both eIDSR programs (EBS: JRuLW57woOB, IBS: xDsAFnQMmeU) map here
 ZEBRA_PROG = "MQtbs8UkBxy"
 
-
+VERIFICATION_STATUS = "HvgldgBK8Th"
+VERIFIED_CODE = "RTSL_ZEB_AL_OS_VERIFICATION_VERIFIED"
 # ----------------------------
 # 1. Auth
 # ----------------------------
