@@ -139,8 +139,8 @@ def run_sync(period="yesterday", date=None):
     now = datetime.now()
     
     #only sync between 08hrs and 18hrs
-    if now.hour < 8 or now.hour > 18:
-        return 0
+    # if now.hour < 8 or now.hour > 18:
+    #     return 0
         
     # Date Calculation
     if period == "today":

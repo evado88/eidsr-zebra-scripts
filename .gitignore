@@ -2,7 +2,9 @@
 /dags
 /menv
 /venv
+/exports
 /__pycache__
 /zebra_payload.json
 config/zebra_auth.json
 config/eIDSR_auth.json
+exports/zebra_events_2026-05.csv
